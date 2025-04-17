@@ -1,0 +1,712 @@
+[
+
+    {
+        "subject": "Anatomy",
+        "topic": "Mixed",
+        "questions": [
+          {
+            "question": "Which artery supplies the motor cortex in the brain?",
+            "options": ["Middle cerebral artery", "Anterior cerebral artery", "Posterior cerebral artery", "Basilar artery"],
+            "correctIndex": 1,
+            "explanation": "The anterior cerebral artery supplies the medial portion of the frontal lobe, including the motor cortex for lower limbs."
+          },
+          {
+            "question": "The sciatic nerve is a branch of which plexus?",
+            "options": ["Cervical", "Lumbar", "Sacral", "Brachial"],
+            "correctIndex": 2,
+            "explanation": "The sciatic nerve arises from the sacral plexus (L4-S3) and is the largest nerve in the body."
+          },
+          {
+            "question": "Which structure passes through the inguinal canal in males?",
+            "options": ["Femoral nerve", "Ureter", "Spermatic cord", "Iliac artery"],
+            "correctIndex": 2,
+            "explanation": "In males, the inguinal canal transmits the spermatic cord; in females, it carries the round ligament of the uterus."
+          },
+          {
+            "question": "Which bone articulates with the condyle of the mandible?",
+            "options": ["Temporal", "Zygomatic", "Maxilla", "Frontal"],
+            "correctIndex": 0,
+            "explanation": "The condyle of the mandible articulates with the temporal bone at the temporomandibular joint (TMJ)."
+          },
+          {
+            "question": "Which muscle abducts the arm at the shoulder joint?",
+            "options": ["Biceps brachii", "Deltoid", "Pectoralis major", "Teres major"],
+            "correctIndex": 1,
+            "explanation": "The deltoid muscle is the main abductor of the arm, especially from 15 to 90 degrees."
+          },
+          {
+            "question": "Which structure forms the posterior boundary of the axilla?",
+            "options": ["Pectoralis major", "Latissimus dorsi", "Serratus anterior", "Subscapularis"],
+            "correctIndex": 3,
+            "explanation": "The posterior wall of the axilla is formed by subscapularis above and teres major/latissimus dorsi below."
+          },
+          {
+            "question": "The femoral artery becomes the popliteal artery after passing through which structure?",
+            "options": ["Inguinal ligament", "Adductor canal", "Popliteal fossa", "Femoral triangle"],
+            "correctIndex": 1,
+            "explanation": "The femoral artery becomes the popliteal artery after passing through the adductor hiatus in the adductor canal."
+          }
+        ]
+      },
+      
+    {
+        "subject": "Biochemistry",
+        "topic": "Mixed",
+        "questions": [
+          {
+            "question": "What is the end product of glycolysis?",
+            "options": ["Lactate", "Pyruvate", "Acetyl-CoA", "Glucose-6-phosphate"],
+            "correctIndex": 1,
+            "explanation": "Glycolysis ends with the formation of 2 pyruvate molecules per glucose under aerobic conditions."
+          },
+          {
+            "question": "Which vitamin is a cofactor for transamination reactions?",
+            "options": ["Vitamin B1", "Vitamin B6", "Vitamin B12", "Vitamin C"],
+            "correctIndex": 1,
+            "explanation": "Vitamin B6 (pyridoxal phosphate) is essential for amino acid metabolism and transamination."
+          },
+          {
+            "question": "Which enzyme is the rate-limiting step in cholesterol synthesis?",
+            "options": ["HMG-CoA reductase", "Squalene synthase", "ACAT", "Mevalonate kinase"],
+            "correctIndex": 0,
+            "explanation": "HMG-CoA reductase catalyzes the conversion of HMG-CoA to mevalonate — the key regulatory step."
+          },
+          {
+            "question": "Which molecule links glycolysis and the TCA cycle?",
+            "options": ["Pyruvate", "Citrate", "Acetyl-CoA", "Lactate"],
+            "correctIndex": 2,
+            "explanation": "Acetyl-CoA is formed from pyruvate by pyruvate dehydrogenase and enters the TCA cycle."
+          },
+          {
+            "question": "Which enzyme deficiency causes phenylketonuria (PKU)?",
+            "options": ["Tyrosinase", "Phenylalanine hydroxylase", "Homogentisate oxidase", "Tyrosine aminotransferase"],
+            "correctIndex": 1,
+            "explanation": "PKU results from a deficiency of phenylalanine hydroxylase, leading to accumulation of phenylalanine."
+          },
+          {
+            "question": "Which molecule carries electrons to the electron transport chain from glycolysis?",
+            "options": ["FADH2", "ATP", "NADH", "Coenzyme Q"],
+            "correctIndex": 2,
+            "explanation": "NADH from glycolysis donates electrons to the electron transport chain for ATP production."
+          },
+          {
+            "question": "Which metabolic process occurs in both the mitochondria and cytosol?",
+            "options": ["Fatty acid synthesis", "Urea cycle", "Glycolysis", "TCA cycle"],
+            "correctIndex": 1,
+            "explanation": "The urea cycle has steps in both the mitochondria and the cytosol, unlike glycolysis (cytosol only) or TCA (mitochondria only)."
+          }
+        ]
+      },
+
+      {
+        "subject": "Physiology",
+        "topic": "Mixed",
+        "questions": [
+          {
+            "question": "What initiates depolarization in a cardiac action potential?",
+            "options": ["Potassium influx", "Sodium influx", "Calcium efflux", "Chloride influx"],
+            "correctIndex": 1,
+            "explanation": "Phase 0 of the cardiac action potential is caused by rapid sodium influx through voltage-gated channels."
+          },
+          {
+            "question": "Which hormone increases water reabsorption in the collecting duct?",
+            "options": ["Aldosterone", "ADH", "ANP", "Renin"],
+            "correctIndex": 1,
+            "explanation": "ADH (vasopressin) increases water reabsorption by inserting aquaporin-2 channels in the collecting duct."
+          },
+          {
+            "question": "What part of the nephron is primarily responsible for glucose reabsorption?",
+            "options": ["Distal tubule", "Loop of Henle", "Proximal tubule", "Collecting duct"],
+            "correctIndex": 2,
+            "explanation": "The proximal convoluted tubule reabsorbs nearly all filtered glucose and amino acids."
+          },
+          {
+            "question": "Which part of the brain regulates basic respiratory rhythm?",
+            "options": ["Cerebellum", "Medulla oblongata", "Hypothalamus", "Thalamus"],
+            "correctIndex": 1,
+            "explanation": "The medulla houses the dorsal and ventral respiratory groups, which regulate breathing rhythm."
+          },
+          {
+            "question": "What is the main ion responsible for muscle contraction?",
+            "options": ["Potassium", "Sodium", "Magnesium", "Calcium"],
+            "correctIndex": 3,
+            "explanation": "Calcium ions bind to troponin, allowing actin-myosin interaction and muscle contraction."
+          },
+          {
+            "question": "Which mechanism is responsible for most carbon dioxide transport in blood?",
+            "options": ["Bound to hemoglobin", "As carbonic acid", "As bicarbonate ion", "Dissolved in plasma"],
+            "correctIndex": 2,
+            "explanation": "Around 70% of CO₂ is transported as bicarbonate ions (HCO₃⁻) in plasma."
+          },
+          {
+            "question": "What is the Frank-Starling law of the heart?",
+            "options": [
+              "Increased stretch leads to decreased force",
+              "Increased preload leads to increased contraction",
+              "Increased afterload increases heart rate",
+              "Stretch reduces cardiac output"
+            ],
+            "correctIndex": 1,
+            "explanation": "Frank-Starling law states that greater end-diastolic volume increases stroke volume via stronger contraction."
+          }
+        ]
+      },
+      {
+        "subject": "Histology",
+        "topic": "Mixed",
+        "questions": [
+          {
+            "question": "Which of the following is NOT one of the four basic tissue types?",
+            "options": ["Epithelial", "Connective", "Muscular", "Skeletal"],
+            "correctIndex": 3,
+            "explanation": "The four basic tissue types are epithelial, connective, muscular, and nervous tissue. 'Skeletal' is not classified as a tissue type."
+          },
+          {
+            "question": "What type of epithelium lines the urinary bladder?",
+            "options": ["Simple squamous", "Simple cuboidal", "Transitional", "Stratified squamous"],
+            "correctIndex": 2,
+            "explanation": "Transitional epithelium lines the urinary bladder, allowing it to stretch and accommodate varying volumes of urine."
+          },
+          {
+            "question": "Which connective tissue fiber provides high tensile strength?",
+            "options": ["Elastic fibers", "Reticular fibers", "Collagen fibers", "Fibrin fibers"],
+            "correctIndex": 2,
+            "explanation": "Collagen fibers provide high tensile strength to connective tissues, enabling them to withstand stretching forces."
+          },
+          {
+            "question": "Which organelle is abundant in cells specializing in protein secretion?",
+            "options": ["Mitochondria", "Lysosomes", "Rough endoplasmic reticulum", "Peroxisomes"],
+            "correctIndex": 2,
+            "explanation": "The rough endoplasmic reticulum is abundant in cells that specialize in protein secretion due to its role in synthesizing proteins."
+          },
+          {
+            "question": "What is the primary function of microvilli on epithelial cells?",
+            "options": ["Secretion", "Absorption", "Protection", "Contraction"],
+            "correctIndex": 1,
+            "explanation": "Microvilli increase the surface area of epithelial cells, enhancing their ability to absorb substances."
+          }
+        ]
+      },
+      {
+        "subject": "Pathology",
+        "topic": "Mixed",
+        "questions": [
+          {
+            "question": "Which of the following is a hallmark of reversible cell injury?",
+            "options": ["Nuclear fragmentation", "Mitochondrial swelling", "Plasma membrane rupture", "Lysosomal rupture"],
+            "correctIndex": 1,
+            "explanation": "Mitochondrial swelling is indicative of reversible cell injury, whereas nuclear fragmentation and membrane ruptures are associated with irreversible injury."
+          },
+          {
+            "question": "What is the primary characteristic of a granuloma?",
+            "options": ["Accumulation of neutrophils", "Central necrosis", "Aggregation of activated macrophages", "Deposition of amyloid"],
+            "correctIndex": 2,
+            "explanation": "A granuloma is characterized by an aggregation of activated macrophages, often surrounded by lymphocytes, and may contain central necrosis."
+          },
+          {
+            "question": "Which hypersensitivity reaction is mediated by IgE antibodies?",
+            "options": ["Type I", "Type II", "Type III", "Type IV"],
+            "correctIndex": 0,
+            "explanation": "Type I hypersensitivity reactions are mediated by IgE antibodies and include allergic responses such as anaphylaxis."
+          },
+          {
+            "question": "Which of the following is a tumor suppressor gene?",
+            "options": ["RAS", "MYC", "TP53", "BCL-2"],
+            "correctIndex": 2,
+            "explanation": "TP53 is a tumor suppressor gene that plays a crucial role in preventing cancer formation by regulating the cell cycle."
+          },
+          {
+            "question": "What is the most common cause of myocardial infarction?",
+            "options": ["Coronary artery spasm", "Atherosclerotic plaque rupture", "Embolism", "Vasculitis"],
+            "correctIndex": 1,
+            "explanation": "Myocardial infarction is most commonly caused by the rupture of an atherosclerotic plaque, leading to thrombosis and occlusion of a coronary artery."
+          }
+        ]
+      },
+      {
+        "subject": "Internal Medicine",
+        "topic": "Mixed",
+        "questions": [
+          {
+            "question": "Which medication is the first-line treatment for hypertension in the general population?",
+            "options": ["Beta-blockers", "ACE inhibitors", "Calcium channel blockers", "Thiazide diuretics"],
+            "correctIndex": 3,
+            "explanation": "Thiazide diuretics are often recommended as first-line treatment for hypertension in the general population due to their efficacy and cost-effectiveness."
+          },
+          {
+            "question": "What is the most common cause of chronic cough in non-smokers?",
+            "options": ["Asthma", "Gastroesophageal reflux disease (GERD)", "Chronic bronchitis", "Postnasal drip"],
+            "correctIndex": 3,
+            "explanation": "Postnasal drip is the most common cause of chronic cough in non-smokers, often resulting from upper airway conditions."
+          },
+          {
+            "question": "Which laboratory finding is indicative of iron deficiency anemia?",
+            "options": ["High ferritin", "Low total iron-binding capacity (TIBC)", "Low serum iron", "High mean corpuscular volume (MCV)"],
+            "correctIndex": 2,
+            "explanation": "Low serum iron levels, along with low ferritin and high TIBC, are indicative of iron deficiency anemia."
+          },
+          {
+            "question": "What is the recommended target HbA1c level for most adults with diabetes?",
+            "options": ["<6.0%", "<6.5%", "<7.0%", "<7.5%"],
+            "correctIndex": 2,
+            "explanation": "A target HbA1c level of less than 7.0% is recommended for most adults with diabetes to reduce the risk of complications."
+          },
+          {
+            "question": "Which of the following is a common side effect of metformin?",
+            "options": ["Hypoglycemia", "Weight gain", "Lactic acidosis", "Gastrointestinal upset"],
+            "correctIndex": 3,
+            "explanation": "Gastrointestinal upset, including nausea and diarrhea, is a common side effect of metformin therapy."
+          }
+        ]
+      },
+      {
+        "subject": "Microbiology",
+        "topic": "Mixed",
+        "questions": [
+          {
+            "question": "Which Gram-positive cocci is catalase-positive?",
+            "options": ["Streptococcus pyogenes", "Staphylococcus aureus", "Enterococcus faecalis", "Listeria monocytogenes"],
+            "correctIndex": 1,
+            "explanation": "Staphylococcus aureus is catalase-positive and forms clusters on Gram stain."
+          },
+          {
+            "question": "Which bacterium causes tuberculosis?",
+            "options": ["Mycobacterium leprae", "Mycobacterium tuberculosis", "Nocardia asteroides", "Corynebacterium diphtheriae"],
+            "correctIndex": 1,
+            "explanation": "Mycobacterium tuberculosis is the causative agent of tuberculosis."
+          },
+          {
+            "question": "What is the primary mode of transmission of Hepatitis A?",
+            "options": ["Bloodborne", "Sexual contact", "Fecal-oral", "Airborne droplets"],
+            "correctIndex": 2,
+            "explanation": "Hepatitis A virus is transmitted via the fecal-oral route, often through contaminated food or water."
+          },
+          {
+            "question": "Which fungal infection is most commonly associated with HIV/AIDS?",
+            "options": ["Candida albicans", "Histoplasma capsulatum", "Cryptococcus neoformans", "Aspergillus fumigatus"],
+            "correctIndex": 2,
+            "explanation": "Cryptococcus neoformans causes meningitis in immunocompromised individuals, especially HIV/AIDS patients."
+          },
+          {
+            "question": "Which of the following is a DNA virus?",
+            "options": ["HIV", "Influenza", "Hepatitis B", "Hepatitis C"],
+            "correctIndex": 2,
+            "explanation": "Hepatitis B is a partially double-stranded DNA virus, unlike the others which are RNA viruses."
+          }
+        ]
+      },
+      {
+        "subject": "Pharmacology",
+        "topic": "Mixed",
+        "questions": [
+          {
+            "question": "What is the mechanism of action of beta-blockers?",
+            "options": ["Increase heart rate", "Block alpha receptors", "Block beta-adrenergic receptors", "Stimulate beta receptors"],
+            "correctIndex": 2,
+            "explanation": "Beta-blockers work by blocking beta-adrenergic receptors, reducing heart rate and blood pressure."
+          },
+          {
+            "question": "Which drug is a loop diuretic?",
+            "options": ["Spironolactone", "Furosemide", "Hydrochlorothiazide", "Amiloride"],
+            "correctIndex": 1,
+            "explanation": "Furosemide is a loop diuretic that inhibits the Na-K-2Cl transporter in the thick ascending limb."
+          },
+          {
+            "question": "Which of the following is an adverse effect of aminoglycosides?",
+            "options": ["Nephrotoxicity", "Hepatotoxicity", "Cardiotoxicity", "Hyperkalemia"],
+            "correctIndex": 0,
+            "explanation": "Aminoglycosides like gentamicin are known for nephrotoxicity and ototoxicity."
+          },
+          {
+            "question": "What is the antidote for acetaminophen overdose?",
+            "options": ["Naloxone", "Atropine", "N-acetylcysteine", "Flumazenil"],
+            "correctIndex": 2,
+            "explanation": "N-acetylcysteine replenishes glutathione and prevents liver damage in acetaminophen toxicity."
+          },
+          {
+            "question": "Which drug inhibits folate synthesis in bacteria?",
+            "options": ["Amoxicillin", "Vancomycin", "Trimethoprim", "Clindamycin"],
+            "correctIndex": 2,
+            "explanation": "Trimethoprim inhibits bacterial dihydrofolate reductase, blocking folate synthesis."
+          }
+        ]
+      },
+      {
+        "subject": "Immunology",
+        "topic": "Mixed",
+        "questions": [
+          {
+            "question": "Which immunoglobulin is most abundant in the blood?",
+            "options": ["IgA", "IgD", "IgE", "IgG"],
+            "correctIndex": 3,
+            "explanation": "IgG is the most abundant antibody in circulation and provides long-term immunity."
+          },
+          {
+            "question": "Which cells are responsible for antibody production?",
+            "options": ["T-helper cells", "Macrophages", "Plasma cells", "Neutrophils"],
+            "correctIndex": 2,
+            "explanation": "Plasma cells are differentiated B cells that produce antibodies."
+          },
+          {
+            "question": "What type of immunity is acquired through vaccination?",
+            "options": ["Natural active", "Artificial passive", "Artificial active", "Natural passive"],
+            "correctIndex": 2,
+            "explanation": "Vaccination stimulates artificial active immunity by exposing the body to antigens."
+          },
+          {
+            "question": "Which complement component initiates the classical pathway?",
+            "options": ["C3", "C5", "C1", "C9"],
+            "correctIndex": 2,
+            "explanation": "C1 binds to antibodies and initiates the classical complement pathway."
+          },
+          {
+            "question": "Which cytokine is primarily responsible for inducing fever?",
+            "options": ["IL-2", "IL-6", "TNF-alpha", "IL-1"],
+            "correctIndex": 3,
+            "explanation": "IL-1 is a key pyrogenic cytokine released by macrophages during inflammation."
+          }
+        ]
+      },
+
+      {
+  "subject": "Surgery",
+  "topic": "Mixed",
+  "questions": [
+    {
+      "question": "Which of the following is the most common cause of acute appendicitis?",
+      "options": ["Viral infection", "Tumor", "Fecalith obstruction", "Diverticulitis"],
+      "correctIndex": 2,
+      "explanation": "Appendicitis is most commonly caused by obstruction of the lumen by a fecalith, leading to inflammation."
+    },
+    {
+      "question": "What is the most common type of hernia in adults?",
+      "options": ["Femoral", "Umbilical", "Indirect inguinal", "Direct inguinal"],
+      "correctIndex": 2,
+      "explanation": "Indirect inguinal hernias are the most common in adults and occur lateral to the inferior epigastric vessels."
+    },
+    {
+      "question": "Murphy's sign is associated with which condition?",
+      "options": ["Appendicitis", "Pancreatitis", "Cholecystitis", "Diverticulitis"],
+      "correctIndex": 2,
+      "explanation": "Murphy’s sign (inspiratory arrest on palpation) is seen in acute cholecystitis."
+    },
+    {
+      "question": "Which fluid is preferred for initial resuscitation in trauma?",
+      "options": ["5% Dextrose", "Normal saline", "Lactated Ringer’s", "Hypertonic saline"],
+      "correctIndex": 2,
+      "explanation": "Lactated Ringer’s is often used as an initial resuscitation fluid in trauma due to its balanced electrolytes."
+    },
+    {
+      "question": "Which sign indicates internal bleeding in abdominal trauma?",
+      "options": ["Grey Turner’s sign", "Murphy’s sign", "Rovsing’s sign", "Babinski’s sign"],
+      "correctIndex": 0,
+      "explanation": "Grey Turner’s sign (flank bruising) suggests retroperitoneal or intra-abdominal bleeding."
+    }
+  ]
+},
+{
+    "subject": "Pediatrics",
+    "topic": "Mixed",
+    "questions": [
+      {
+        "question": "What is the most common cause of bronchiolitis in infants?",
+        "options": ["Influenza", "Parainfluenza", "RSV", "Adenovirus"],
+        "correctIndex": 2,
+        "explanation": "Respiratory Syncytial Virus (RSV) is the leading cause of bronchiolitis in infants and young children."
+      },
+      {
+        "question": "At what age should a child double their birth weight?",
+        "options": ["3 months", "5 months", "6 months", "12 months"],
+        "correctIndex": 2,
+        "explanation": "Most infants double their birth weight by 5–6 months of age."
+      },
+      {
+        "question": "Which vaccine is given at birth?",
+        "options": ["MMR", "Hepatitis B", "BCG", "DTaP"],
+        "correctIndex": 1,
+        "explanation": "The Hepatitis B vaccine is routinely administered at birth as part of immunization schedules."
+      },
+      {
+        "question": "What is the first-line treatment for febrile seizures?",
+        "options": ["Diazepam", "Acetaminophen", "Phenobarbital", "No medication needed"],
+        "correctIndex": 3,
+        "explanation": "Most febrile seizures are benign and require only fever control and observation."
+      },
+      {
+        "question": "Which condition causes a 'machine-like' heart murmur in infants?",
+        "options": ["ASD", "VSD", "PDA", "Coarctation of the aorta"],
+        "correctIndex": 2,
+        "explanation": "Patent Ductus Arteriosus (PDA) produces a continuous 'machinery' murmur heard best at the upper left sternal border."
+      }
+    ]
+  },
+  {
+    "subject": "Obstetrics & Gynecology",
+    "topic": "Mixed",
+    "questions": [
+      {
+        "question": "What is the normal duration of a human pregnancy from last menstrual period?",
+        "options": ["36 weeks", "38 weeks", "40 weeks", "42 weeks"],
+        "correctIndex": 2,
+        "explanation": "Pregnancy duration is approximately 40 weeks from the first day of the last menstrual period (LMP)."
+      },
+      {
+        "question": "What is the most common cause of postpartum hemorrhage?",
+        "options": ["Uterine atony", "Retained placenta", "Genital tract trauma", "Coagulopathy"],
+        "correctIndex": 0,
+        "explanation": "Uterine atony is the most common cause of postpartum hemorrhage and requires immediate management."
+      },
+      {
+        "question": "Which hormone is responsible for maintaining pregnancy in the early stages?",
+        "options": ["Estrogen", "FSH", "LH", "Progesterone"],
+        "correctIndex": 3,
+        "explanation": "Progesterone maintains the endometrium and prevents uterine contractions in early pregnancy."
+      },
+      {
+        "question": "Which of the following is a common symptom of endometriosis?",
+        "options": ["Heavy menstrual bleeding", "Painless periods", "Infertility", "Weight gain"],
+        "correctIndex": 2,
+        "explanation": "Endometriosis often presents with chronic pelvic pain and infertility."
+      },
+      {
+        "question": "What is the most effective form of emergency contraception?",
+        "options": ["Copper IUD", "Levonorgestrel pill", "Ulipristal acetate", "Combined oral contraceptive"],
+        "correctIndex": 0,
+        "explanation": "The copper intrauterine device (IUD) is the most effective form of emergency contraception."
+      }
+    ]
+  },
+  {
+    "subject": "Psychiatry",
+    "topic": "Mixed",
+    "questions": [
+      {
+        "question": "Which of the following is a hallmark symptom of major depressive disorder?",
+        "options": ["Elevated mood", "Delusions", "Anhedonia", "Hyperactivity"],
+        "correctIndex": 2,
+        "explanation": "Anhedonia — loss of interest or pleasure — is a core symptom of major depressive disorder."
+      },
+      {
+        "question": "Which neurotransmitter is primarily implicated in schizophrenia?",
+        "options": ["Serotonin", "GABA", "Dopamine", "Norepinephrine"],
+        "correctIndex": 2,
+        "explanation": "Dopamine dysregulation, especially in the mesolimbic pathway, is associated with schizophrenia."
+      },
+      {
+        "question": "What is the first-line treatment for generalized anxiety disorder (GAD)?",
+        "options": ["Benzodiazepines", "SSRIs", "Antipsychotics", "Stimulants"],
+        "correctIndex": 1,
+        "explanation": "SSRIs are the first-line pharmacologic treatment for GAD."
+      },
+      {
+        "question": "Which symptom is characteristic of PTSD?",
+        "options": ["Euphoria", "Compulsions", "Hypervigilance", "Loosening of associations"],
+        "correctIndex": 2,
+        "explanation": "PTSD includes hypervigilance, nightmares, and avoidance of trauma-related stimuli."
+      },
+      {
+        "question": "What is the most common substance associated with withdrawal seizures?",
+        "options": ["Opioids", "Cocaine", "Alcohol", "Cannabis"],
+        "correctIndex": 2,
+        "explanation": "Alcohol withdrawal can cause seizures, especially within 6–48 hours after cessation."
+      }
+    ]
+  },
+  {
+    "subject": "Neurology",
+    "topic": "Mixed",
+    "questions": [
+      {
+        "question": "Which artery is most commonly involved in ischemic stroke?",
+        "options": ["Posterior cerebral artery", "Basilar artery", "Middle cerebral artery", "Anterior cerebral artery"],
+        "correctIndex": 2,
+        "explanation": "The middle cerebral artery is most frequently involved in ischemic strokes, affecting the lateral brain."
+      },
+      {
+        "question": "Which condition is characterized by resting tremor, rigidity, and bradykinesia?",
+        "options": ["Multiple sclerosis", "Parkinson's disease", "ALS", "Huntington's disease"],
+        "correctIndex": 1,
+        "explanation": "Parkinson’s disease features resting tremor, rigidity, and slow movement (bradykinesia)."
+      },
+      {
+        "question": "Which test is used to confirm myasthenia gravis?",
+        "options": ["MRI of brain", "Tensilon test", "Lumbar puncture", "EEG"],
+        "correctIndex": 1,
+        "explanation": "The Tensilon (edrophonium) test transiently improves muscle weakness in myasthenia gravis."
+      },
+      {
+        "question": "What is the initial imaging for suspected stroke?",
+        "options": ["MRI with contrast", "Non-contrast CT", "PET scan", "X-ray skull"],
+        "correctIndex": 1,
+        "explanation": "Non-contrast CT is performed first to rule out hemorrhagic stroke before thrombolytics."
+      },
+      {
+        "question": "Which of the following is a lower motor neuron sign?",
+        "options": ["Spasticity", "Hyperreflexia", "Clonus", "Muscle atrophy"],
+        "correctIndex": 3,
+        "explanation": "Muscle atrophy is a lower motor neuron finding due to denervation."
+      }
+    ]
+  },
+  {
+    "subject": "Emergency Medicine",
+    "topic": "Mixed",
+    "questions": [
+      {
+        "question": "What is the first step in the ABCs of trauma assessment?",
+        "options": ["Control bleeding", "Check airway", "Immobilize spine", "Check pulse"],
+        "correctIndex": 1,
+        "explanation": "Airway assessment and protection is the first step in emergency trauma evaluation."
+      },
+      {
+        "question": "Which rhythm requires immediate defibrillation?",
+        "options": ["Asystole", "Ventricular fibrillation", "Sinus bradycardia", "Pulseless electrical activity"],
+        "correctIndex": 1,
+        "explanation": "Ventricular fibrillation is a shockable rhythm requiring immediate defibrillation."
+      },
+      {
+        "question": "Which antidote is used for opioid overdose?",
+        "options": ["Atropine", "Flumazenil", "Naloxone", "N-acetylcysteine"],
+        "correctIndex": 2,
+        "explanation": "Naloxone is an opioid antagonist that reverses respiratory depression caused by opioids."
+      },
+      {
+        "question": "What is the classic triad of cardiac tamponade?",
+        "options": ["Fever, murmur, petechiae", "JVD, hypotension, muffled heart sounds", "Chest pain, dyspnea, cough", "Tachycardia, hypertension, edema"],
+        "correctIndex": 1,
+        "explanation": "Beck’s triad — JVD, hypotension, muffled heart sounds — is seen in cardiac tamponade."
+      },
+      {
+        "question": "Which medication is given for anaphylaxis?",
+        "options": ["Diphenhydramine", "Hydrocortisone", "Epinephrine", "Atropine"],
+        "correctIndex": 2,
+        "explanation": "Intramuscular epinephrine is the first-line treatment for anaphylaxis."
+      }
+    ]
+  },
+  {
+    "subject": "Ethics & Communication",
+    "topic": "Mixed",
+    "questions": [
+      {
+        "question": "What is the most important principle when obtaining informed consent?",
+        "options": ["Physician opinion", "Patient literacy", "Voluntary and informed decision-making", "Medical urgency"],
+        "correctIndex": 2,
+        "explanation": "Informed consent requires the patient to make a voluntary and informed decision after understanding the risks, benefits, and alternatives."
+      },
+      {
+        "question": "What is the SPIKES protocol used for?",
+        "options": ["Diagnosis coding", "Emergency triage", "Breaking bad news", "Patient handoff"],
+        "correctIndex": 2,
+        "explanation": "SPIKES is a 6-step protocol used to deliver bad news sensitively and effectively."
+      },
+      {
+        "question": "When is it ethically acceptable to breach patient confidentiality?",
+        "options": ["Never", "To inform family", "If the patient is terminally ill", "To prevent serious harm to others"],
+        "correctIndex": 3,
+        "explanation": "Patient confidentiality may be breached if there is a duty to protect others from imminent harm."
+      },
+      {
+        "question": "Which document outlines a patient’s wishes in case they become incapacitated?",
+        "options": ["Consent form", "Discharge summary", "Living will", "Medication chart"],
+        "correctIndex": 2,
+        "explanation": "A living will is an advance directive detailing treatment preferences when the patient cannot communicate."
+      },
+      {
+        "question": "Which skill improves team communication in medical settings?",
+        "options": ["Silence", "SBAR", "SOAP", "SPIKES"],
+        "correctIndex": 1,
+        "explanation": "SBAR (Situation, Background, Assessment, Recommendation) is a communication framework for clinical handoffs."
+      }
+    ]
+  },
+
+  {
+    "subject": "Radiology & Imaging",
+    "topic": "Mixed",
+    "questions": [
+      {
+        "question": "Which imaging modality is best for detecting brain hemorrhage acutely?",
+        "options": ["MRI", "X-ray", "Ultrasound", "Non-contrast CT"],
+        "correctIndex": 3,
+        "explanation": "Non-contrast CT is the first-line imaging for acute brain hemorrhage because it quickly reveals blood."
+      },
+      {
+        "question": "What is the standard initial imaging for suspected pneumonia?",
+        "options": ["CT chest", "Chest X-ray", "MRI chest", "PET scan"],
+        "correctIndex": 1,
+        "explanation": "Chest X-ray is the standard first-line imaging for evaluating suspected pneumonia."
+      },
+      {
+        "question": "What is a contraindication to MRI?",
+        "options": ["Pacemaker", "Renal failure", "Diabetes", "Pregnancy"],
+        "correctIndex": 0,
+        "explanation": "Most pacemakers are not MRI-compatible and are a contraindication unless specified otherwise."
+      },
+      {
+        "question": "Which imaging uses ionizing radiation?",
+        "options": ["MRI", "Ultrasound", "X-ray", "Endoscopy"],
+        "correctIndex": 2,
+        "explanation": "X-rays, CT, and fluoroscopy use ionizing radiation; ultrasound and MRI do not."
+      },
+      {
+        "question": "What is the most appropriate imaging to assess gallstones?",
+        "options": ["CT scan", "MRI", "Ultrasound", "X-ray"],
+        "correctIndex": 2,
+        "explanation": "Ultrasound is the imaging modality of choice for gallstones due to high sensitivity and no radiation."
+      }
+    ]
+  },
+  {
+    "subject": "Global & Preventive Health",
+    "topic": "Mixed",
+    "questions": [
+      {
+        "question": "Which metric quantifies the burden of disease combining years of life lost and years lived with disability?",
+        "options": ["DALY", "QALY", "Incidence", "Prevalence"],
+        "correctIndex": 0,
+        "explanation": "Disability-Adjusted Life Year (DALY) = YLL + YLD, used globally to measure disease burden."
+      },
+      {
+        "question": "What is herd immunity?",
+        "options": ["Direct immunity by exposure", "Individual immunity to disease", "Protection of unvaccinated due to high community vaccination", "Immunity passed from mother to baby"],
+        "correctIndex": 2,
+        "explanation": "Herd immunity occurs when a large proportion of a population is immune, reducing spread and protecting the unvaccinated."
+      },
+      {
+        "question": "What type of study follows a group over time to assess disease development?",
+        "options": ["Case-control", "Cross-sectional", "Cohort", "RCT"],
+        "correctIndex": 2,
+        "explanation": "Cohort studies follow exposed/unexposed groups over time to determine outcome incidence."
+      },
+      {
+        "question": "Which agency coordinates global public health responses?",
+        "options": ["CDC", "UNESCO", "WHO", "UNICEF"],
+        "correctIndex": 2,
+        "explanation": "The World Health Organization (WHO) leads international public health and emergency responses."
+      },
+      {
+        "question": "What is the first step in outbreak investigation?",
+        "options": ["Case interviews", "Hypothesis testing", "Confirm diagnosis", "Establish case definition"],
+        "correctIndex": 3,
+        "explanation": "The first step is to define what qualifies as a case — essential for accurate counting and control."
+      }
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+
+      
+      
+      
+      
+      
+      
+      
+]

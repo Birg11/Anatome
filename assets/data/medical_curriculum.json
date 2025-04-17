@@ -1,0 +1,991 @@
+{
+    "years": [
+      {
+        "year": 1,
+        "subjects": [
+          {
+            "name": "Anatomy",
+            "topics": [
+              {
+                "title": "Skull",
+                "description": "Study of the cranial and facial bones.",
+                "notes": "### 🦴 Skull Overview\n\nThe human skull consists of **22 bones**, which are divided into:\n\n- **8 Cranial Bones**\n- **14 Facial Bones**\n\nIt forms the skeleton of the head and protects the brain while supporting facial structures.\n\n---\n\n### 🧠 Cranial Bones (8)\n\nThese bones enclose and protect the brain:\n\n1. **Frontal**\n2. **Parietal** (2)\n3. **Temporal** (2)\n4. **Occipital**\n5. **Sphenoid**\n6. **Ethmoid**\n\n> 🧩 The frontal bone forms the forehead and the roof of the orbits.\n\n---\n\n### 😊 Facial Bones (14)\n\nThese shape the face and support sensory organs:\n\n- **Maxilla** (2)\n- **Zygomatic (cheekbones)** (2)\n- **Nasal** (2)\n- **Lacrimal** (2)\n- **Palatine** (2)\n- **Inferior nasal conchae** (2)\n- **Mandible** (1 — only movable skull bone)\n- **Vomer** (1)\n\n---\n\n### 🕳️ Important Foramina\n\nOpenings in the skull through which nerves and vessels pass:\n\n| Foramen           | Transmits                            |\n|------------------|--------------------------------------|\n| Foramen magnum   | Spinal cord, vertebral arteries      |\n| Optic canal      | Optic nerve (CN II)                  |\n| Jugular foramen  | CN IX, X, XI, jugular vein           |\n| Foramen ovale    | Mandibular branch of CN V (V3)       |\n\n---\n\n### 📌 Clinical Relevance\n\n- **Fractures** of the skull can be life-threatening if cranial nerves or vessels are damaged.\n- The **pterion** is a thin region vulnerable to **epidural hematoma** if the middle meningeal artery is ruptured.\n\n---\n\n### 🧠 Key Takeaway\n\nThe skull is not a single bone but a complex structure of **22 bones** that together provide **protection**, **support**, and **access** for vital neurovascular structures."
+                
+                
+          
+              },
+              {
+                "title": "Vertebral Column",
+                "description": "Anatomy and function of the human spine.",
+                "notes": "### 🦴 Vertebral Column (Spine) Overview\n\nThe vertebral column is the **central support structure** of the body, made up of **33 vertebrae**:\n\n- 7 Cervical\n- 12 Thoracic\n- 5 Lumbar\n- 5 Sacral (fused)\n- 4 Coccygeal (fused)\n\n---\n\n### 🧩 Functions\n\n- **Supports** the skull and trunk\n- **Protects** the spinal cord\n- Allows **flexibility** and **movement**\n- Acts as an **attachment point** for ribs and muscles\n\n---\n\n### 🧠 Regions of the Spine\n\n| Region     | Vertebrae Count | Key Features                    |\n|------------|------------------|----------------------------------|\n| Cervical   | 7                | Small, bifid spinous processes   |\n| Thoracic   | 12               | Articulates with ribs            |\n| Lumbar     | 5                | Large bodies, weight-bearing     |\n| Sacral     | 5 (fused)        | Forms posterior pelvis (sacrum) |\n| Coccygeal  | 4 (fused)        | Vestigial tailbone (coccyx)      |\n\n---\n\n### 🔎 Vertebra Structure\n\nEach typical vertebra has:\n\n- **Body**\n- **Vertebral foramen**\n- **Spinous process**\n- **Transverse processes**\n- **Articular facets**\n\n---\n\n### 🩺 Clinical Relevance\n\n- **Herniated Disc**: Displacement of intervertebral disc can compress spinal nerves (common in lumbar).\n- **Scoliosis**: Lateral curvature of the spine.\n- **Kyphosis**: Excessive posterior curvature (hunchback).\n- **Lordosis**: Exaggerated lumbar curve.\n\n---\n\n### 🧠 Key Takeaway\n\nThe spine is a flexible but strong column of **33 vertebrae** that provides **support, protection, and motion**, while housing the **spinal cord**."
+              },
+
+              {
+                "title": "Anatomical Terminology",
+                "description": "Fundamental positions, planes, and directional terms used in anatomy.",
+                "notes": "### 🧭 Anatomical Terminology & Orientation\n\nAnatomical terminology is essential for accurately describing **locations**, **positions**, and **relationships** of body structures.\n\n---\n\n### 📐 Anatomical Position\n\nThe **standard reference position** for the human body:\n\n- Standing upright\n- Facing forward\n- Arms at the side\n- Palms facing forward\n- Feet slightly apart\n\n---\n\n### 🧭 Anatomical Planes\n\n| Plane           | Description                                |\n|-----------------|--------------------------------------------|\n| **Sagittal**    | Divides the body into left & right         |\n| **Coronal**     | Divides the body into front & back         |\n| **Transverse**  | Divides the body into top & bottom         |\n| **Oblique**     | Any angled plane                           |\n\n---\n\n### 🔀 Terms of Position\n\n| Term          | Meaning                           |\n|---------------|------------------------------------|\n| **Anterior**  | Front of the body                 |\n| **Posterior** | Back of the body                  |\n| **Superior**  | Above / toward head               |\n| **Inferior**  | Below / toward feet               |\n| **Medial**    | Toward midline                    |\n| **Lateral**   | Away from midline                 |\n| **Proximal**  | Closer to origin (limbs)          |\n| **Distal**    | Farther from origin (limbs)       |\n| **Superficial** | Closer to body surface         |\n| **Deep**      | Farther from surface              |\n\n---\n\n### 🔄 Movements\n\n| Movement       | Description                         |\n|----------------|-------------------------------------|\n| **Flexion**    | Decreasing joint angle              |\n| **Extension**  | Increasing joint angle              |\n| **Abduction**  | Moving away from midline            |\n| **Adduction**  | Moving toward midline               |\n| **Rotation**   | Circular movement around an axis    |\n| **Supination** | Palm turns upward                   |\n| **Pronation**  | Palm turns downward                 |\n\n---\n\n### 🧠 Key Takeaway\n\nLearning standard anatomical terms helps ensure **clear communication** among healthcare professionals when describing parts of the body or performing procedures."
+
+              },
+              {
+                "title": "Thoracic Wall & Ribs",
+                "description": "Structure and function of the thoracic wall and rib cage.",
+                "notes": "### 🛡️ Thoracic Wall & Ribs\n\nThe thoracic wall consists of the rib cage, muscles, and fascia that protect the thoracic organs.\n\n---\n\n### 🦴 Rib Cage Structure\n\n- **12 pairs of ribs**:\n  - Ribs 1-7: True ribs (attach directly to the sternum)\n  - Ribs 8-10: False ribs (attach indirectly via costal cartilage)\n  - Ribs 11-12: Floating ribs (do not attach to the sternum)\n\n- **Sternum**: Manubrium, body, and xiphoid process.\n\n---\n\n### 🏋️‍♂️ Muscles of the Thoracic Wall\n\n- **Intercostal muscles**: External, internal, and innermost intercostals aid in respiration.\n- **Diaphragm**: Primary muscle of respiration separating thoracic and abdominal cavities.\n\n---\n\n### 🩺 Clinical Relevance\n\n- **Rib Fractures**: Commonly occur due to trauma; may lead to pneumothorax.\n- **Thoracic Outlet Syndrome**: Compression of neurovascular structures between the clavicle and first rib.\n\n---\n\n### 🧠 Key Takeaway\n\nThe thoracic wall and rib cage provide structural support, protect vital organs, and play a crucial role in respiration."
+              },
+              {
+                "title": "Lungs & Pleura",
+                "description": "Anatomy and function of the lungs and pleural membranes.",
+                "notes": "### 🌬️ Lungs & Pleura\n\nThe lungs are the primary organs of respiration, housed within the pleural cavities.\n\n---\n\n### 🫁 Lung Anatomy\n\n- **Right Lung**: Three lobes (superior, middle, inferior) separated by horizontal and oblique fissures.\n- **Left Lung**: Two lobes (superior, inferior) separated by an oblique fissure; includes the cardiac notch.\n\n---\n\n### 🩹 Pleura\n\n- **Visceral Pleura**: Covers the lungs.\n- **Parietal Pleura**: Lines the thoracic cavity.\n- **Pleural Cavity**: Potential space between the two layers containing lubricating fluid.\n\n---\n\n### 🩺 Clinical Relevance\n\n- **Pneumothorax**: Air in the pleural cavity causing lung collapse.\n- **Pleural Effusion**: Excess fluid in the pleural cavity.\n\n---\n\n### 🧠 Key Takeaway\n\nUnderstanding the structure of the lungs and pleura is essential for diagnosing and treating respiratory conditions."
+              },
+              {
+                "title": "Heart & Pericardium",
+                "description": "Detailed anatomy of the heart and its surrounding pericardial sac.",
+                "notes": "### ❤️ Heart & Pericardium\n\nThe heart is a muscular organ responsible for pumping blood, enclosed within the pericardium.\n\n---\n\n### 🫀 Heart Structure\n\n- **Chambers**: Right atrium, right ventricle, left atrium, left ventricle.\n- **Valves**: Tricuspid, pulmonary, mitral (bicuspid), aortic.\n\n---\n\n### 🩹 Pericardium\n\n- **Fibrous Pericardium**: Outer tough connective tissue layer.\n- **Serous Pericardium**: Inner double-layer with parietal and visceral layers; pericardial cavity contains lubricating fluid.\n\n---\n\n### 🩺 Clinical Relevance\n\n- **Pericarditis**: Inflammation of the pericardium.\n- **Cardiac Tamponade**: Accumulation of fluid in the pericardial cavity restricting heart function.\n\n---\n\n### 🧠 Key Takeaway\n\nA thorough understanding of the heart and pericardium is vital for recognizing and managing cardiovascular diseases."
+              },
+              {
+                "title": "Abdominal Wall",
+                "description": "Anatomical features of the abdominal wall and its clinical significance.",
+                "notes": "### 🏋️ Abdominal Wall\n\nThe abdominal wall encloses the abdominal cavity and consists of multiple layers.\n\n---\n\n### 🧱 Layers (Superficial to Deep)\n\n1. Skin\n2. Superficial fascia (Camper's and Scarpa's layers)\n3. Muscles: External oblique, internal oblique, transversus abdominis\n4. Transversalis fascia\n5. Extraperitoneal fat\n6. Parietal peritoneum\n\n---\n\n### 🏋️‍♂️ Muscles and Functions\n\n- **External Oblique**: Compresses abdomen, flexes and rotates trunk.\n- **Internal Oblique**: Same as external oblique.\n- **Transversus Abdominis**: Compresses abdominal contents.\n- **Rectus Abdominis**: Flexes vertebral column, compresses abdomen.\n\n---\n\n### 🩺 Clinical Relevance\n\n- **Hernias**: Protrusion of abdominal contents through the wall; common types include inguinal and umbilical hernias.\n\n---\n\n### 🧠 Key Takeaway\n\nThe abdominal wall's structure is crucial for protecting internal organs and maintaining intra-abdominal pressure."
+              },
+              {
+                "title": "Gastrointestinal Tract",
+                "description": "Comprehensive overview of the human gastrointestinal system.",
+                "notes": "### 🍽️ Gastrointestinal Tract\n\nThe gastrointestinal (GI) tract is a continuous tube extending from the mouth to the anus, facilitating digestion and absorption.\n\n---\n\n### 🛤️ Major Components\n\n1. **Mouth**: Mechanical digestion begins; saliva initiates chemical digestion.\n2. **Esophagus**: Transports food to the stomach.\n3. **Stomach**: Secretes acid and enzymes; churns food into chyme.\n4. **Small Intestine**: Duodenum, jejunum, ileum; primary site for nutrient absorption.\n5. **Large Intestine**: Absorbs water; forms and stores feces.\n6. **Rectum & Anus**: Feces storage and elimination.\n\n---\n\n### 🧪 Accessory Organs\n\n- **Liver**: Produces bile; processes nutrients and toxins.\n- **Gallbladder**: Stores and concentrates bile.\n- **Pancreas**: Produces digestive enzymes and bicarbonate.\n\n---\n\n### 🩺 Clinical Relevance\n\n- **GERD**: Acid reflux due to lower esophageal sphincter weakness.\n- **Peptic Ulcers**: Erosion of stomach/duodenal lining.\n- **Malabsorption Syndromes**: Celiac disease, lactose intolerance.\n\n---\n\n### 🧠 Key Takeaway\n\nThe GI tract is essential for digestion, absorption, and elimination — with critical support from the liver, gallbladder, and pancreas."
+              },
+              {
+                "title": "Lower Limb",
+                "description": "Detailed anatomy of the lower limb including bones, muscles, and neurovascular structures.",
+                "notes": "### 🦵 Lower Limb Anatomy\n\nThe lower limb supports body weight and enables locomotion.\n\n---\n\n### 🦴 Bones\n\n- **Hip Bone** (ilium, ischium, pubis)\n- **Femur** (thigh)\n- **Patella** (kneecap)\n- **Tibia and Fibula** (leg)\n- **Tarsals, Metatarsals, Phalanges** (foot)\n\n---\n\n### 💪 Muscles\n\n- **Thigh**: Quadriceps (anterior), hamstrings (posterior), adductors (medial)\n- **Leg**: Anterior (dorsiflexors), posterior (plantarflexors), lateral (evertors)\n- **Gluteal Region**: Gluteus maximus, medius, minimus\n\n---\n\n### 🩸 Neurovascular Supply\n\n- **Arteries**: External iliac → Femoral → Popliteal → Tibial\n- **Nerves**: Sciatic (largest), femoral, obturator, tibial, common peroneal\n\n---\n\n### 🩺 Clinical Relevance\n\n- **Femoral Neck Fracture**: Common in elderly; leads to avascular necrosis\n- **Sciatica**: Pain due to sciatic nerve compression\n\n---\n\n### 🧠 Key Takeaway\n\nThe lower limb provides structural stability and powerful motion for walking, running, and standing."
+              },
+              {
+                "title": "Cranial Nerves",
+                "description": "An overview of the 12 cranial nerves, their functions, and clinical importance.",
+                "notes": "### 🧠 Cranial Nerves\n\nThere are **12 pairs of cranial nerves**, emerging directly from the brain.\n\n---\n\n### 🧬 Overview\n\n| CN | Name               | Function                    |\n|----|--------------------|-----------------------------|\n| I  | Olfactory          | Smell                       |\n| II | Optic              | Vision                      |\n| III| Oculomotor         | Eye movement, pupil constriction |\n| IV | Trochlear          | Eye movement (superior oblique) |\n| V  | Trigeminal         | Facial sensation, mastication |\n| VI | Abducens           | Eye movement (lateral rectus) |\n| VII| Facial             | Facial expression, taste (anterior 2/3 tongue) |\n| VIII| Vestibulocochlear | Hearing and balance         |\n| IX | Glossopharyngeal   | Taste (posterior 1/3), swallowing |\n| X  | Vagus              | Autonomic control, swallowing, speech |\n| XI | Accessory          | Shoulder and neck movement |\n| XII| Hypoglossal        | Tongue movement             |\n\n---\n\n### 🩺 Clinical Relevance\n\n- **Bell’s Palsy**: CN VII paralysis → facial muscle weakness\n- **Trigeminal Neuralgia**: Intense facial pain along CN V\n\n---\n\n### 🧠 Key Takeaway\n\nCranial nerves are vital for sensory, motor, and autonomic functions — each has a distinct clinical test."
+              }
+               ,
+           {
+              "title": "Brain & Meninges",
+              "description": "Anatomical divisions of the brain and protective coverings.",
+              "notes": "### 🧠 Brain & Meninges\n\nThe brain is the control center of the body, enclosed by **meninges** that provide protection.\n\n---\n\n### 🧬 Brain Divisions\n\n- **Cerebrum**: Largest part, responsible for cognition, emotion, motor, and sensory processing\n- **Cerebellum**: Coordination and balance\n- **Brainstem**: Midbrain, pons, medulla — autonomic and relay functions\n\n---\n\n### 🛡️ Meninges (from outer to inner)\n\n1. **Dura mater** — Tough outer layer\n2. **Arachnoid mater** — Web-like, CSF circulation\n3. **Pia mater** — Thin inner membrane directly on brain\n\n---\n\n### 🧪 CSF Circulation\n\n- Produced in **choroid plexus** → ventricles → subarachnoid space → reabsorbed into dural sinuses\n\n---\n\n### 🩺 Clinical Relevance\n\n- **Meningitis**: Inflammation of meninges\n- **Hydrocephalus**: CSF accumulation → increased intracranial pressure\n\n---\n\n### 🧠 Key Takeaway\n\nUnderstanding the layers and structure of the brain and meninges is critical for managing neurological conditions."
+            },
+
+             {
+               "title": "Eye & Orbit",
+               "description": "Structures of the eye and the bony orbit housing them.",
+               "notes": "### 👁️ Eye & Orbit\n\nThe **orbit** contains the eyeball, muscles, nerves, and vessels.\n\n---\n\n### 🦴 Orbital Anatomy\n\n- Formed by 7 bones: frontal, sphenoid, zygomatic, maxilla, palatine, ethmoid, lacrimal\n\n---\n\n### 👁️ Eyeball Layers\n\n1. **Fibrous**: Cornea, sclera\n2. **Vascular**: Choroid, ciliary body, iris\n3. **Retina**: Photoreceptors (rods/cones)\n\n---\n\n### 🧬 Muscles of the Eye\n\n- **6 Extraocular muscles**: Superior, inferior, medial, lateral rectus; superior/inferior oblique\n\n---\n\n### 🩺 Clinical Relevance\n\n- **Strabismus**: Misalignment of eyes\n- **Glaucoma**: Increased intraocular pressure damaging optic nerve\n\n---\n\n### 🧠 Key Takeaway\n\nThe eye and its orbit are complex sensory and motor structures essential for vision and gaze control."
+              }                       
+            ]
+            
+            
+          },
+
+          
+          {
+            "name": "Biochemistry",
+            "topics": [
+              {
+                "title": "Glycolysis",
+                "description": "Main metabolic pathway for glucose breakdown.",
+                "notes": "### ⚡ Glycolysis: Fast Glucose Breakdown\n\n**Glycolysis** is a key metabolic pathway that converts **glucose (6C)** into **2 pyruvate (3C)**, generating energy.\n\n---\n\n### 📍 Location\n- **Cytoplasm** of all cells (aerobic & anaerobic)\n\n---\n\n### 🔑 Key Points\n- Net yield: **2 ATP**, **2 NADH** (per glucose)\n- No oxygen required (anaerobic-capable)\n- First step of cellular respiration\n\n---\n\n### 🧬 Rate-Limiting Enzyme\n- **Phosphofructokinase-1 (PFK-1)**\n  - Activated by AMP, inhibited by ATP & citrate\n\n---\n\n### 🧪 Important Steps\n1. **Glucose → G6P** (Hexokinase)\n2. **F6P → F1,6BP** (PFK-1) ← 🔥 commitment step\n3. **PEP → Pyruvate** (Pyruvate kinase)\n\n---\n\n### 🩺 Clinical Relevance\n- **Pyruvate kinase deficiency** → hemolytic anemia\n- **Warburg effect** in cancer cells = high glycolysis even with oxygen\n\n---\n\n### 🧠 Key Takeaway\nGlycolysis provides **quick ATP**, operates without oxygen, and feeds into multiple critical pathways (TCA, lactate, acetyl-CoA)."
+              },
+              {
+                "title": "TCA Cycle",
+                "description": "Central metabolic cycle that oxidizes acetyl-CoA into CO₂ and energy.",
+                "notes": "### 🔁 TCA Cycle (Krebs Cycle)\n\nThe **TCA cycle** oxidizes **acetyl-CoA** into **CO₂**, producing high-energy molecules.\n\n---\n\n### 📍 Location\n- **Mitochondrial matrix**\n\n---\n\n### 🔑 Key Products (Per Acetyl-CoA)\n- **3 NADH**\n- **1 FADH₂**\n- **1 GTP (ATP)**\n- **2 CO₂**\n\n---\n\n### ⛽ Entry Point\n- Acetyl-CoA + Oxaloacetate → Citrate\n\n### 🧬 Rate-Limiting Enzyme\n- **Isocitrate dehydrogenase**\n\n---\n\n### 🩺 Clinical Relevance\n- Inhibited by ATP, NADH, citrate\n- **Anaplerotic reactions** replenish cycle intermediates\n\n---\n\n### 🧠 Key Takeaway\nThe TCA cycle is a **hub of metabolism**, feeding into the ETC and providing substrates for biosynthesis."
+              },
+              {
+                "title": "Electron Transport Chain",
+                "description": "Final step of aerobic respiration producing ATP via oxidative phosphorylation.",
+                "notes": "### ⚙️ Electron Transport Chain (ETC)\n\nThe **ETC** uses electrons from NADH/FADH₂ to generate **ATP** via proton pumping.\n\n---\n\n### 📍 Location\n- **Inner mitochondrial membrane**\n\n---\n\n### 🧬 Key Complexes\n- **Complex I**: NADH → CoQ\n- **Complex II**: FADH₂ → CoQ\n- **Complex III**: CoQ → Cyt c\n- **Complex IV**: Cyt c → O₂ → H₂O\n- **ATP Synthase** (Complex V): Makes ATP using H⁺ gradient\n\n---\n\n### 🩺 Clinical Relevance\n- Blocked by cyanide (Complex IV), rotenone (I), oligomycin (V)\n- ETC defects = mitochondrial disease\n\n---\n\n### 🧠 Key Takeaway\nETC is the **main source of ATP**, coupling electron transfer to proton gradient & ATP production."
+              },
+              {
+                "title": "Enzyme Kinetics",
+                "description": "Study of enzyme reaction rates and their regulation.",
+                "notes": "### ⏱️ Enzyme Kinetics\n\nDescribes how **substrate concentration** affects enzyme activity.\n\n---\n\n### 🧮 Michaelis-Menten Equation\nv = (Vmax × [S]) / (Km + [S])\n\n- **Km**: [S] at ½ Vmax\n- **Vmax**: Max rate at enzyme saturation\n\n---\n\n### 📉 Lineweaver-Burk Plot\n- Double-reciprocal plot of Michaelis-Menten equation\n- Useful to distinguish inhibition types\n\n---\n\n### 🔒 Inhibition Types\n- **Competitive**: ↑Km, same Vmax\n- **Non-competitive**: ↓Vmax, same Km\n\n---\n\n### 🧠 Key Takeaway\nEnzyme kinetics is critical for **drug development** and understanding **metabolic control**."
+              },
+              {
+                "title": "Protein Structure",
+                "description": "Levels of organization of protein structure.",
+                "notes": "### 🧬 Protein Structure\n\nProteins fold into specific shapes essential for their function.\n\n---\n\n### 🧱 4 Structural Levels\n1. **Primary**: Amino acid sequence (peptide bonds)\n2. **Secondary**: α-helices, β-sheets (H-bonds)\n3. **Tertiary**: 3D folding (disulfide, ionic, hydrophobic)\n4. **Quaternary**: Multiple subunits (e.g. Hb = 4 chains)\n\n---\n\n### 🧠 Key Takeaway\nStructure determines function → misfolding = disease (e.g. Alzheimer’s, prions)."
+              },
+              {
+                "title": "Amino Acid Metabolism",
+                "description": "Pathways of amino acid utilization, transamination, and deamination.",
+                "notes": "### 🧪 Amino Acid Metabolism\n\nAmino acids are used for **protein synthesis**, energy, or converted into glucose/ketones.\n\n---\n\n### 🔄 Key Processes\n- **Transamination**: Transfer amino group → α-ketoglutarate\n- **Deamination**: Ammonia removed → Urea\n- **Glucogenic**: → Glucose\n- **Ketogenic**: → Ketone bodies\n\n---\n\n### 🩺 Clinical Relevance\n- **PKU**: Defective phenylalanine metabolism\n- **Maple Syrup Urine Disease**: Branched-chain AA defect\n\n---\n\n### 🧠 Key Takeaway\nAmino acid metabolism links **protein breakdown** to **energy metabolism** and **nitrogen disposal**."
+              },
+              {
+                "title": "Lipid Metabolism",
+                "description": "Breakdown and synthesis of fatty acids and cholesterol.",
+                "notes": "### 🧈 Lipid Metabolism\n\nLipids provide long-term energy and membrane structure.\n\n---\n\n### 🔥 Key Pathways\n- **β-oxidation**: FA → Acetyl-CoA → TCA (mitochondria)\n- **Lipogenesis**: Acetyl-CoA → FA (cytoplasm)\n- **Cholesterol synthesis**: HMG-CoA → Mevalonate → Cholesterol\n\n---\n\n### 🩺 Clinical Relevance\n- **Fatty liver**, **hyperlipidemia**, **statins** inhibit HMG-CoA reductase\n\n---\n\n### 🧠 Key Takeaway\nLipid metabolism balances **energy**, **storage**, and **hormone synthesis**."
+              },
+              {
+                "title": "Nucleotide Metabolism",
+                "description": "Synthesis and breakdown of purines and pyrimidines.",
+                "notes": "### 🧬 Nucleotide Metabolism\n\nNucleotides are essential for **DNA/RNA synthesis** and **energy transfer (ATP)**.\n\n---\n\n### 🧪 Synthesis\n- **Purines**: Built on ribose-P → AMP/GMP\n- **Pyrimidines**: Ring built first → added to ribose (UMP → CTP/TMP)\n\n---\n\n### 🔁 Salvage Pathway\n- Recycles free bases → efficient reuse (important in brain)\n\n---\n\n### 🩺 Clinical Relevance\n- **Lesch-Nyhan Syndrome**: HGPRT deficiency → ↑uric acid\n- **Gout**: Uric acid crystal deposition\n\n---\n\n### 🧠 Key Takeaway\nBalanced nucleotide metabolism is vital for **genetic stability** and **cell division**."
+              }
+            ]
+          },
+          
+
+
+          {
+            "name": "Histology",
+            "topics": [
+              {
+                "title": "Introduction to Histology",
+                "description": "Overview of histology as the study of tissues, including microscope basics and tissue classification.",
+                "notes": "### 🧫 Introduction to Histology\n\nHistology is the **microscopic study of tissues** and how they organize to form organs.\n\n---\n\n### 🔬 Microscopy Basics\n- **Light Microscopy**: Most common for staining\n- **Electron Microscopy (TEM/SEM)**: For ultrastructure\n\n---\n\n### 📌 Tissue Processing Steps\n1. Fixation (formalin)\n2. Embedding (paraffin)\n3. Sectioning (~5 µm)\n4. Staining (H&E most common)\n\n---\n\n### 🧠 Major Tissue Types\n1. **Epithelial**\n2. **Connective**\n3. **Muscle**\n4. **Nervous**"
+              },
+              {
+                "title": "Epithelium",
+                "description": "Classification and function of epithelial tissues.",
+                "notes": "### 🧱 Epithelium\n\nEpithelial tissues **line surfaces, protect organs**, and form **glands**.\n\n---\n\n### 📌 Classification\n- **By Layers**:\n  - Simple (1 layer)\n  - Stratified (>1 layer)\n  - Pseudostratified (appears layered, isn't)\n- **By Shape**:\n  - Squamous (flat)\n  - Cuboidal (cube)\n  - Columnar (tall)\n\n---\n\n### 🔍 Key Locations\n- Simple squamous: Alveoli, endothelium\n- Simple cuboidal: Kidney tubules\n- Pseudostratified: Respiratory tract\n- Stratified squamous: Skin, esophagus\n\n---\n\n### 🧠 Key Takeaway\nEpithelia are **polarized**, **avascular**, and rest on a **basement membrane**."
+              },
+              {
+                "title": "Connective Tissue",
+                "description": "Overview of connective tissue types, components, and functions.",
+                "notes": "### 🧵 Connective Tissue\n\nSupports, binds, and protects tissues. Most **abundant and diverse** tissue type.\n\n---\n\n### 🔬 Components\n- **Cells**: Fibroblasts, adipocytes, macrophages\n- **Fibers**: Collagen (strength), Elastic (stretch), Reticular (framework)\n- **Ground Substance**: Fills space, supports exchange\n\n---\n\n### 📌 Types\n- **Loose (Areolar)**: Under epithelium\n- **Dense Regular**: Tendons, ligaments\n- **Dense Irregular**: Dermis, capsules\n- **Specialized**: Cartilage, Bone, Blood\n\n---\n\n### 🧠 Key Takeaway\nCT connects and supports other tissues — **structure and repair** are its core jobs."
+              },
+              {
+                "title": "Muscle Tissue",
+                "description": "Structure and function of skeletal, cardiac, and smooth muscle tissues.",
+                "notes": "### 💪 Muscle Tissue\n\nMuscle tissue generates **movement**, **posture**, and **heat**.\n\n---\n\n### 📌 Types\n1. **Skeletal**: Striated, multinucleated, voluntary\n2. **Cardiac**: Striated, single nucleus, intercalated discs, involuntary\n3. **Smooth**: Non-striated, fusiform cells, involuntary\n\n---\n\n### 🔍 Locations\n- Skeletal: Attached to bone\n- Cardiac: Heart wall\n- Smooth: GI tract, bladder, vessels\n\n---\n\n### 🧠 Key Takeaway\nMuscle types differ by **appearance**, **location**, and **control mechanism**."
+              },
+              {
+                "title": "Nervous Tissue",
+                "description": "Components and functions of nervous tissue.",
+                "notes": "### 🧠 Nervous Tissue\n\nDesigned for **rapid communication** and control.\n\n---\n\n### 📌 Components\n- **Neurons**: Conduct signals (dendrites → axon)\n- **Neuroglia (Glia)**: Support cells\n  - CNS: Astrocytes, oligodendrocytes, microglia, ependymal\n  - PNS: Schwann cells, satellite cells\n\n---\n\n### 🔌 Synapse Basics\n- Electrical signal → Chemical (NT) → Next neuron\n- Common NTs: ACh, dopamine, serotonin, GABA\n\n---\n\n### 🧠 Key Takeaway\nNervous tissue powers **sensation, reflexes, thinking**, and **motor control**."
+              }
+            ]
+          },
+          
+        
+          {
+            "name": "Physiology",
+            "topics": [
+              {
+                "title": "Cell Physiology",
+                "description": "Fundamental concepts of cell function and signaling.",
+                "notes": "### 🔬 Cell Physiology\n\nCell physiology focuses on **homeostasis, signaling**, and **transport** mechanisms that allow cells to survive and function.\n\n---\n\n### 🧬 Key Concepts\n- **Membrane Potential**: Maintained by Na⁺/K⁺ ATPase\n- **Diffusion**: Passive, down concentration gradient\n- **Facilitated Diffusion**: Requires transporter\n- **Active Transport**: Uses ATP (e.g. Na⁺/K⁺ pump)\n- **Endo-/Exocytosis**: Vesicle-mediated transport\n\n---\n\n### 📡 Cell Signaling\n- **Receptor Types**: Ion channel, GPCR, enzyme-linked\n- **Second Messengers**: cAMP, IP₃, DAG, Ca²⁺\n\n---\n\n### 🧠 Key Takeaway\nCell physiology explains how **molecules move**, **signals transmit**, and **homeostasis** is maintained at the cellular level."
+              },
+              {
+                "title": "Neurophysiology",
+                "description": "Functioning of the nervous system and neural pathways.",
+                "notes": "### 🧠 Neurophysiology\n\nStudies how the nervous system **transmits, integrates**, and **responds** to information.\n\n---\n\n### 🔌 Action Potential\n- Resting potential: ~–70 mV\n- Depolarization: Na⁺ influx\n- Repolarization: K⁺ efflux\n- Refractory periods: Absolute vs relative\n\n---\n\n### 🔁 Synaptic Transmission\n- **Chemical synapses**: Use neurotransmitters\n- **Excitatory vs Inhibitory**: EPSP (Na⁺) / IPSP (Cl⁻)\n- Common NTs: ACh, dopamine, GABA, glutamate\n\n---\n\n### 🧠 Key Takeaway\nNeurophysiology bridges **electrical signals and brain function**, essential for understanding reflexes, movement, and sensation."
+              },
+              {
+                "title": "Cardiovascular Physiology",
+                "description": "Mechanics of heart function and blood circulation.",
+                "notes": "### ❤️ Cardiovascular Physiology\n\nDescribes how the heart and blood vessels maintain **blood flow** and **oxygen delivery**.\n\n---\n\n### 🔁 Cardiac Cycle\n- Phases: Diastole (filling), Systole (ejection)\n- Heart sounds: S1 (AV close), S2 (semilunar close)\n\n---\n\n### 💓 Electrical Conduction\n- SA → AV → Bundle of His → Purkinje\n- ECG: P wave, QRS, T wave\n\n---\n\n### 🧪 Hemodynamics\n- **CO = HR × SV**\n- BP regulated by baroreceptors, RAAS, sympathetic tone\n\n---\n\n### 🧠 Key Takeaway\nCardiovascular physiology links **pressure, flow, resistance** — critical for diagnosing hypertension, arrhythmias, and shock."
+              },
+              {
+                "title": "Respiratory Physiology",
+                "description": "Processes involved in gas exchange and breathing.",
+                "notes": "### 🫁 Respiratory Physiology\n\nCovers **ventilation**, **gas exchange**, and **oxygen transport**.\n\n---\n\n### 🌬️ Mechanics of Breathing\n- Inspiration: Diaphragm contracts, lungs expand\n- Expiration: Passive (normal) or active (forced)\n\n---\n\n### 🧬 Gas Exchange\n- Occurs in **alveoli**\n- O₂ diffuses into blood, CO₂ diffuses out\n- Driven by partial pressure gradients (PaO₂, PaCO₂)\n\n---\n\n### 🩸 Oxygen Transport\n- 98% bound to Hb\n- **O₂-Hb dissociation curve**: Shift right = ↓affinity\n\n---\n\n### 🧠 Key Takeaway\nUnderstanding ventilation and perfusion is vital for managing **asthma**, **COPD**, and **respiratory failure**."
+              },
+              {
+                "title": "Renal Physiology",
+                "description": "Kidney function and urine formation.",
+                "notes": "### 🩸 Renal Physiology\n\nExplains how the kidneys **filter blood**, **maintain homeostasis**, and **form urine**.\n\n---\n\n### 🌀 Nephron Function\n1. **Filtration** at glomerulus\n2. **Reabsorption** (PCT → Loop → DCT)\n3. **Secretion** of H⁺, K⁺, drugs\n4. **Excretion** = Filtration – Reabsorption + Secretion\n\n---\n\n### ⚖️ Regulation\n- ADH: ↑ water reabsorption (collecting duct)\n- Aldosterone: ↑ Na⁺ reabsorption, K⁺ secretion\n- Renin-Angiotensin-Aldosterone System (RAAS): BP control\n\n---\n\n### 🧠 Key Takeaway\nRenal physiology underpins **fluid/electrolyte balance**, **acid-base homeostasis**, and **BP regulation**."
+              }
+            ]
+          },
+          
+          {
+            "name": "Genetics",
+            "topics": [
+              {
+                "title": "DNA Structure and Replication",
+                "description": "Molecular composition of DNA and the replication process.",
+                "notes": "### 🧬 DNA Structure and Replication\n\n**DNA** is a double-stranded helix composed of nucleotides: **adenine (A)**, **thymine (T)**, **guanine (G)**, and **cytosine (C)**.\n\n---\n\n### 🧱 Structure\n- Sugar-phosphate backbone\n- A-T and G-C base pairing (H-bonds)\n- Antiparallel strands (5' → 3', 3' → 5')\n\n---\n\n### 🔁 Replication Process\n- Semi-conservative (one new + one old strand)\n- **DNA helicase**: Unwinds helix\n- **DNA polymerase**: Adds nucleotides (needs primer)\n- **Ligase**: Joins Okazaki fragments on lagging strand\n\n---\n\n### 🧠 Key Takeaway\nDNA's structure enables accurate replication, essential for inheritance and cell division."
+              },
+              {
+                "title": "Mendelian Inheritance",
+                "description": "Basic laws of inheritance and genetic patterns.",
+                "notes": "### 🧪 Mendelian Inheritance\n\nFounded by **Gregor Mendel**, this describes how traits are inherited via **alleles**.\n\n---\n\n### 📜 Mendel’s Laws\n1. **Law of Segregation**: Each gamete receives one allele\n2. **Law of Independent Assortment**: Genes for different traits sort independently\n\n---\n\n### 🔢 Inheritance Patterns\n- **Autosomal Dominant**: One copy enough (e.g. Marfan)\n- **Autosomal Recessive**: Both copies (e.g. CF)\n- **X-Linked Recessive**: More common in males (e.g. hemophilia)\n\n---\n\n### 🧠 Key Takeaway\nMendelian rules explain **predictable trait patterns**, key to diagnosing genetic diseases."
+              },
+              {
+                "title": "Mutations and Genetic Disorders",
+                "description": "Types of mutations and common inherited diseases.",
+                "notes": "### 🧬 Mutations and Genetic Disorders\n\nA **mutation** is a permanent change in the DNA sequence.\n\n---\n\n### 🔧 Mutation Types\n- **Point Mutation**: Single base change (missense, nonsense, silent)\n- **Frameshift**: Insertion/deletion → reading frame altered\n- **Chromosomal**: Large deletions, duplications, inversions\n\n---\n\n### ⚠️ Genetic Disorders\n- **Cystic Fibrosis**: ΔF508 deletion\n- **Sickle Cell Anemia**: Missense mutation in β-globin\n- **Down Syndrome**: Trisomy 21 (non-Mendelian)\n\n---\n\n### 🧠 Key Takeaway\nMutations can disrupt gene function, leading to **inherited or developmental disorders**."
+              },
+              {
+                "title": "Population Genetics",
+                "description": "Genetic variation and evolution in populations.",
+                "notes": "### 🌍 Population Genetics\n\nStudies how allele frequencies change in populations over time.\n\n---\n\n### 🧮 Hardy-Weinberg Principle\n- Genotype frequencies: p² + 2pq + q² = 1\n- Assumes: No mutation, random mating, no migration, large pop, no selection\n\n---\n\n### 📉 Factors Affecting Allele Frequencies\n- **Mutation**\n- **Gene flow (migration)**\n- **Genetic drift (random)**\n- **Selection (natural/sexual)**\n- **Non-random mating**\n\n---\n\n### 🧠 Key Takeaway\nPopulation genetics links **evolution, diversity**, and **disease susceptibility**."
+              }
+            ]
+          },
+          
+          {
+            "name": "Embryology",
+            "topics": [
+              {
+                "title": "Fertilization and Early Development",
+                "description": "From zygote to blastocyst and implantation.",
+                "notes": "### 🧬 Fertilization and Early Development\n\nDevelopment begins when a **sperm fertilizes an ovum**, forming a **zygote** (diploid cell).\n\n---\n\n### 🔄 Stages\n1. **Cleavage**: Rapid mitotic divisions → morula (16–32 cells)\n2. **Blastocyst**: Fluid-filled cavity forms (blastocoel); inner cell mass becomes embryo\n3. **Implantation**: Blastocyst embeds into endometrium (around day 6–7)\n\n---\n\n### 🧠 Key Takeaway\nEarly development forms the groundwork for **germ layer differentiation** and **placental development**."
+              },
+              {
+                "title": "Gastrulation and Germ Layers",
+                "description": "Formation of the three primary germ layers.",
+                "notes": "### 🔁 Gastrulation and Germ Layers\n\nGastrulation creates a **trilaminar embryo** from a bilaminar disc.\n\n---\n\n### 📌 Process\n- Starts with formation of **primitive streak**\n- **Epiblast cells** migrate inward\n\n---\n\n### 🎯 Germ Layers\n- **Ectoderm**: Skin, CNS, eyes\n- **Mesoderm**: Muscles, bones, heart, kidneys\n- **Endoderm**: Gut lining, lungs, liver, pancreas\n\n---\n\n### 🧠 Key Takeaway\nEach germ layer gives rise to specific tissues → **mastering this unlocks full organogenesis.**"
+              },
+              {
+                "title": "Neurulation",
+                "description": "Formation of the neural tube from ectoderm.",
+                "notes": "### 🧠 Neurulation\n\nNeurulation converts the ectoderm into the **neural tube**, the precursor of the **central nervous system**.\n\n---\n\n### 🧬 Steps\n1. **Notochord** induces ectoderm → neural plate\n2. Neural plate → folds → fuse to form neural tube\n3. **Neural crest cells**: Migrate to form PNS, adrenal medulla, melanocytes\n\n---\n\n### ⚠️ Clinical Relevance\n- Failure to close → **neural tube defects** (anencephaly, spina bifida)\n- Folic acid ↓ risk\n\n---\n\n### 🧠 Key Takeaway\nNeurulation is essential for CNS development — **early folate support is critical.**"
+              },
+              {
+                "title": "Fetal Membranes and Placenta",
+                "description": "Development and function of amnion, chorion, and placenta.",
+                "notes": "### 🛡️ Fetal Membranes and Placenta\n\nFetal membranes and placenta support and protect the embryo throughout gestation.\n\n---\n\n### 🧃 Membranes\n- **Amnion**: Fluid-filled sac; cushions embryo\n- **Chorion**: Forms part of placenta\n- **Yolk Sac**: Early blood/nutrient source\n- **Allantois**: Contributes to umbilical cord\n\n---\n\n### 🧠 Placenta\n- Formed from **trophoblast + maternal decidua**\n- Site of **gas, nutrient, waste exchange**\n- Produces hormones: hCG, progesterone, estrogens\n\n---\n\n### 🧠 Key Takeaway\nThe placenta is the **lifeline** of fetal life and a **hormonal factory.**"
+              },
+              {
+                "title": "Developmental Defects",
+                "description": "Major congenital anomalies and their origins.",
+                "notes": "### ⚠️ Developmental Defects\n\nBirth defects arise due to **genetic errors**, **teratogens**, or **timing issues** in development.\n\n---\n\n### 🧬 Types\n- **Malformation**: Intrinsic (e.g. neural tube defect)\n- **Deformation**: External mechanical force (e.g. clubfoot)\n- **Disruption**: External breakdown (e.g. amniotic band)\n\n---\n\n### ⏱️ Critical Periods\n- Weeks 3–8: Organogenesis = highest risk window\n\n---\n\n### 🧪 Examples\n- Teratogens: Alcohol → FAS, Retinoic acid, Thalidomide\n- Chromosomal: Trisomy 21, Turner, Klinefelter\n\n---\n\n### 🧠 Key Takeaway\nPreventing defects starts with **maternal health**, **folate**, and **timing awareness**."
+              }
+            ]
+          }
+          
+          
+        ]},
+      {
+        "year": 2,
+        "subjects": [
+          {
+            "name": "Pathology",
+            "topics": [
+              {
+                "title": "Cell Injury and Death",
+                "description": "Mechanisms of reversible and irreversible cell injury.",
+                "notes": "### 🧬 Cell Injury and Death\n\nPathology begins with **cell stress** → **adaptation or injury**.\n\n---\n\n### 🔁 Reversible Injury\n- **Cell swelling**: Na⁺/K⁺ pump failure\n- **Fatty change**: Liver, heart\n- Recovery possible if stress removed\n\n---\n\n### ❌ Irreversible Injury\n- Membrane damage\n- Ca²⁺ influx → enzyme activation\n- Nuclear changes: Pyknosis → karyorrhexis → karyolysis\n\n---\n\n### ☠️ Cell Death Types\n- **Necrosis**: Inflammatory, enzyme-mediated (coagulative, liquefactive, caseous)\n- **Apoptosis**: Programmed, non-inflammatory (DNA laddering, caspases)\n\n---\n\n### 🧠 Key Takeaway\n**Timing and severity** decide if cell injury is **reversible** or leads to **necrosis/apoptosis**."
+              },
+              {
+                "title": "Inflammation",
+                "description": "Acute and chronic inflammation processes.",
+                "notes": "### 🔥 Inflammation\n\nResponse to injury → eliminate cause and repair tissue.\n\n---\n\n### ⚡ Acute Inflammation\n- Time: Minutes to hours\n- Cells: Neutrophils\n- Mediators: Histamine, prostaglandins, bradykinin\n- Signs: Rubor, calor, tumor, dolor, functio laesa\n\n---\n\n### 🕰️ Chronic Inflammation\n- Time: Days to years\n- Cells: Macrophages, lymphocytes, plasma cells\n- Leads to: Fibrosis, granuloma (e.g. TB)\n\n---\n\n### 🧠 Key Takeaway\nAcute = **rapid**, neutrophilic; chronic = **persistent**, mononuclear — both critical in disease progression."
+              },
+              {
+                "title": "Neoplasia",
+                "description": "Tumor biology, classification, and cancer hallmarks.",
+                "notes": "### 🦠 Neoplasia\n\nUncontrolled, irreversible **abnormal growth** of cells.\n\n---\n\n### 📌 Terms\n- **Hyperplasia**: ↑ cell number (reversible)\n- **Dysplasia**: Disordered growth (pre-cancer)\n- **Neoplasm**: True tumor (benign/malignant)\n\n---\n\n### 🧬 Hallmarks of Cancer (Hanahan & Weinberg)\n1. Evade apoptosis\n2. Self-sufficiency in growth signals\n3. Insensitivity to anti-growth\n4. Sustained angiogenesis\n5. Limitless replication\n6. Tissue invasion/metastasis\n\n---\n\n### 🧠 Key Takeaway\nCancer = genetic damage + unchecked division + **metastatic potential**."
+              },
+              {
+                "title": "Hemodynamic Disorders",
+                "description": "Edema, thrombosis, embolism, shock.",
+                "notes": "### 💉 Hemodynamic Disorders\n\nDisruptions in **blood flow or vascular integrity**.\n\n---\n\n### 💧 Edema\n- ↑ Hydrostatic pressure (CHF)\n- ↓ Oncotic pressure (nephrotic syndrome)\n- Lymphatic obstruction\n\n---\n\n### 🩸 Thrombosis\n- **Virchow’s Triad**: Endothelial injury, stasis, hypercoagulability\n- DVT → PE risk\n\n---\n\n### 🚀 Embolism\n- Types: Thromboembolus, fat, air, amniotic\n- PE: Sudden SOB, death risk\n\n---\n\n### ⚠️ Shock\n- Cardiogenic, hypovolemic, septic\n- ↓ Perfusion → organ failure\n\n---\n\n### 🧠 Key Takeaway\nHemodynamic issues cause **ischemia, infarction, and death** if not corrected fast."
+              },
+              {
+                "title": "Immunopathology",
+                "description": "Hypersensitivity reactions, autoimmunity.",
+                "notes": "### 🛡️ Immunopathology\n\nDeals with **abnormal immune responses**.\n\n---\n\n### 🎯 Hypersensitivity Types\n1. **Type I (Immediate)**: IgE, anaphylaxis, allergies\n2. **Type II (Cytotoxic)**: IgG/IgM vs cells (e.g. autoimmune hemolysis)\n3. **Type III (Immune Complex)**: SLE, serum sickness\n4. **Type IV (Delayed)**: T-cell mediated (TB test, dermatitis)\n\n---\n\n### 🔄 Autoimmunity\n- Loss of self-tolerance → attack on own tissue\n- e.g. SLE, RA, Hashimoto, T1DM\n\n---\n\n### 🧠 Key Takeaway\nImmunopathology explains many chronic illnesses via **exaggerated or misdirected immunity**."
+              }
+            ]
+          },
+          
+          
+          {
+            "name": "Pharmacology",
+            "topics": [
+              {
+                "title": "Pharmacokinetics",
+                "description": "Absorption, distribution, metabolism, excretion (ADME).",
+                "notes": "### ⚗️ Pharmacokinetics (PK)\n\nWhat the **body does to the drug** — determines onset, intensity, duration.\n\n---\n\n### 🧪 ADME\n- **Absorption**: Entry into bloodstream (bioavailability ↓ by first-pass effect)\n- **Distribution**: Drug to tissues (Vd = apparent volume of distribution)\n- **Metabolism**: Usually in liver (Phase I – oxidation/reduction; Phase II – conjugation)\n- **Excretion**: Primarily renal; others: biliary, lungs, sweat\n\n---\n\n### 🧠 Key Takeaway\nPharmacokinetics explains how drug levels rise and fall — critical for **dosing** and **toxicity prevention**."
+              },
+              {
+                "title": "Pharmacodynamics",
+                "description": "Drug-receptor interactions and dose-response.",
+                "notes": "### 🎯 Pharmacodynamics (PD)\n\nWhat the **drug does to the body** — effect intensity and mechanism.\n\n---\n\n### 🧬 Receptor Types\n- Ion channels, GPCRs, enzyme-linked, nuclear\n\n### 🧮 Dose-Response Curve\n- **Potency**: Dose needed for effect\n- **Efficacy**: Max effect possible\n- **Therapeutic Index (TI)** = TD50 / ED50 (higher = safer)\n\n---\n\n### 🧠 Key Takeaway\nPharmacodynamics reveals **how drugs work**, **how strong**, and **how risky** they are."
+              },
+              {
+                "title": "Autonomic Pharmacology",
+                "description": "Drugs affecting sympathetic and parasympathetic systems.",
+                "notes": "### 🔌 Autonomic Pharmacology\n\nTargets the **sympathetic and parasympathetic** nervous systems.\n\n---\n\n### 🧠 Receptor Classes\n- **Sympathetic** (Adrenergic): α (vasoconstriction), β (heart, lungs)\n- **Parasympathetic** (Cholinergic): Muscarinic (M1–M5), Nicotinic (N)\n\n---\n\n### 💊 Major Drug Classes\n- **Sympathomimetics**: Epi, norepi, albuterol\n- **Sympatholytics**: β-blockers, α-blockers\n- **Cholinomimetics**: ACh, pilocarpine, neostigmine\n- **Anticholinergics**: Atropine, ipratropium\n\n---\n\n### 🧠 Key Takeaway\nAutonomic drugs affect **BP, HR, GI, bladder, pupils** — common in **emergencies & chronic care**."
+              },
+              {
+                "title": "Cardiovascular Drugs",
+                "description": "Antihypertensives, antiarrhythmics, diuretics.",
+                "notes": "### ❤️ Cardiovascular Drugs\n\nCore treatments in **HTN, CHF, arrhythmias, angina**.\n\n---\n\n### 🩺 Classes\n- **Antihypertensives**:\n  - ACE inhibitors (enalapril)\n  - ARBs (losartan)\n  - β-blockers (metoprolol)\n  - CCBs (amlodipine)\n  - Diuretics (HCTZ, furosemide)\n\n- **Antiarrhythmics (Class I–IV)**:\n  - I: Na⁺ blockers\n  - II: β-blockers\n  - III: K⁺ blockers\n  - IV: CCBs\n\n- **Nitrates**: Dilate coronary arteries (e.g. nitroglycerin)\n\n---\n\n### 🧠 Key Takeaway\nCardio drugs reduce **morbidity/mortality** — understanding their MOA = **life-saving practice**."
+              },
+              {
+                "title": "Antibiotics",
+                "description": "Mechanisms and classes of antibacterial agents.",
+                "notes": "### 💊 Antibiotics\n\nDrugs that inhibit **bacterial growth (bacteriostatic)** or **kill bacteria (bactericidal)**.\n\n---\n\n### 🔬 Mechanisms\n1. **Cell wall synthesis**: Penicillins, cephalosporins\n2. **Protein synthesis**: Tetracyclines, macrolides, aminoglycosides\n3. **DNA/RNA synthesis**: Fluoroquinolones, rifampin\n4. **Metabolic pathways**: Sulfonamides, trimethoprim\n\n---\n\n### 📉 Resistance Mechanisms\n- β-lactamase enzymes\n- Efflux pumps\n- Target site modification\n\n---\n\n### 🧠 Key Takeaway\nAntibiotics must be **chosen wisely** — misuse fuels **resistance**, failure, and **superbugs**."
+              }
+            ]
+          },
+          
+          {
+            "name": "Microbiology",
+            "topics": [
+              {
+                "title": "Bacterial Structure and Classification",
+                "description": "Basic features and Gram stain classification.",
+                "notes": "### 🦠 Bacterial Structure & Classification\n\nBacteria are prokaryotic, single-celled organisms with diverse shapes and properties.\n\n---\n\n### 🔬 Key Structures\n- **Cell wall**: Gram+ (thick peptidoglycan) vs Gram– (thin + outer membrane)\n- **Flagella**: Motility\n- **Pili (fimbriae)**: Adherence\n- **Capsule**: Anti-phagocytic\n- **Spores**: Dormant, resistant forms (e.g. *Bacillus*, *Clostridium*)\n\n---\n\n### 🧪 Gram Stain\n- **Gram+**: Blue/purple (retain crystal violet)\n- **Gram–**: Pink/red (safranin counterstain)\n\n---\n\n### 📌 Shapes\n- **Cocci**: Round (e.g. *Staph*, *Strep*)\n- **Bacilli**: Rods (e.g. *E. coli*, *Bacillus*)\n- **Spirochetes**: Spiral (e.g. *Treponema*)\n\n---\n\n### 🧠 Key Takeaway\nStructure and stain type predict **pathogenicity**, **treatment**, and **diagnostic approach**."
+              },
+              {
+                "title": "Viruses",
+                "description": "DNA vs RNA viruses, replication, examples.",
+                "notes": "### 🦠 Viruses\n\nViruses are **obligate intracellular parasites** — they rely on host machinery to replicate.\n\n---\n\n### 🧬 Viral Genome\n- **DNA Viruses**: Mostly double-stranded (except parvo)\n- **RNA Viruses**: Mostly single-stranded (except reovirus)\n\n---\n\n### 🔁 Replication Cycles\n1. Attachment\n2. Entry (endocytosis/fusion)\n3. Uncoating\n4. Replication\n5. Assembly\n6. Release (lysis or budding)\n\n---\n\n### 🧪 Key Examples\n- **DNA**: Herpes, Hepatitis B, Parvovirus\n- **RNA**: Influenza, HIV, Coronavirus, Hepatitis C\n\n---\n\n### 🧠 Key Takeaway\nViral classification affects **replication strategy**, **transmission**, and **vaccine availability**."
+              },
+              {
+                "title": "Fungi and Parasites",
+                "description": "Common pathogenic fungi and protozoa.",
+                "notes": "### 🍄 Fungi and Parasites\n\nEukaryotic organisms causing **chronic**, **opportunistic**, or **geographic** infections.\n\n---\n\n### 🧫 Fungi\n- **Yeasts**: Round, budding (e.g. *Candida*)\n- **Molds**: Filamentous, hyphae (e.g. *Aspergillus*)\n- **Dimorphic**: Yeast in body, mold in environment (*Histoplasma*)\n\n---\n\n### 🦠 Parasites\n- **Protozoa**: Single-celled (e.g. *Plasmodium*, *Giardia*)\n- **Helminths**: Multicellular worms (e.g. *Ascaris*, *Schistosoma*)\n\n---\n\n### 🧠 Key Takeaway\nFungi and parasites show **slow growth**, **host evasion**, and often need **special stains or serology** for diagnosis."
+              },
+              {
+                "title": "Sterilization and Disinfection",
+                "description": "Principles and methods.",
+                "notes": "### 🧼 Sterilization & Disinfection\n\nControl of microorganisms is critical in clinical and lab settings.\n\n---\n\n### 🔒 Sterilization\n- Kills **all forms of life**, including spores\n- Methods:\n  - Autoclave (steam @ 121°C)\n  - Dry heat\n  - Gas (ethylene oxide)\n  - Radiation\n\n---\n\n### 💧 Disinfection\n- Reduces pathogen load (not necessarily spores)\n- High-level: Glutaraldehyde\n- Intermediate: Alcohol, iodine\n- Low-level: Phenolics, quats\n\n---\n\n### 🧠 Key Takeaway\n**Sterilization = complete kill**; **disinfection = pathogen reduction** — both vital for infection control."
+              },
+              {
+                "title": "Vaccines",
+                "description": "Types, schedules, and immune response.",
+                "notes": "### 💉 Vaccines\n\nVaccines **stimulate immunity** to prevent infectious diseases.\n\n---\n\n### 🧬 Types\n- **Live attenuated**: Strong, long-lasting (e.g. MMR, BCG)\n- **Inactivated**: Safer in immunocompromised (e.g. polio, hep A)\n- **Toxoid**: Inactivated toxins (e.g. tetanus, diphtheria)\n- **Subunit/conjugate**: Safer, require boosters (e.g. HPV, Hib)\n\n---\n\n### 📅 Schedule\n- Childhood: BCG, OPV/IPV, DPT, Hep B, MMR, Hib, PCV\n- Boosters as per national guidelines\n\n---\n\n### 🧠 Key Takeaway\nVaccines are **preventive powerhouses**, saving millions by building **herd immunity** and reducing transmission."
+              }
+            ]
+          },
+          
+          {
+            "name": "Immunology",
+            "topics": [
+              {
+                "title": "Innate and Adaptive Immunity",
+                "description": "Key differences, cells, and functions.",
+                "notes": "### 🛡️ Innate vs Adaptive Immunity\n\nThe immune system protects against pathogens using **two tiers** of defense.\n\n---\n\n### ⚡ Innate Immunity\n- **Immediate**, non-specific\n- Cells: Neutrophils, macrophages, dendritic cells, NK cells\n- Barriers: Skin, mucosa\n- No memory\n\n### 🧠 Adaptive Immunity\n- **Delayed**, specific\n- B cells (→ plasma cells → antibodies)\n- T cells (CD4+ helper, CD8+ cytotoxic)\n- **Has memory** → faster second response\n\n---\n\n### 🧠 Key Takeaway\nInnate = rapid, no memory; Adaptive = slower, **highly specific**, with **lasting protection**."
+              },
+              {
+                "title": "Antibodies and Antigens",
+                "description": "Structure, classes, and antigen recognition.",
+                "notes": "### 🔗 Antibodies & Antigens\n\nAntibodies (immunoglobulins) bind **antigens** to neutralize or tag them for destruction.\n\n---\n\n### 🔍 Antibody Structure\n- 2 heavy + 2 light chains\n- Variable region = antigen-binding\n- Constant region = effector function (Fc)\n\n### 🧬 Ig Classes\n- **IgG**: Most abundant, crosses placenta\n- **IgA**: Mucosal, secretions\n- **IgM**: First made, pentamer\n- **IgE**: Allergies, parasites\n- **IgD**: B cell receptor (function unclear)\n\n---\n\n### 🧠 Key Takeaway\nAntibodies are the **tools** of humoral immunity — each type has **specific roles** in defense."
+              },
+              {
+                "title": "Major Histocompatibility Complex (MHC)",
+                "description": "Role of MHC I and II in antigen presentation.",
+                "notes": "### 🧬 MHC: Antigen Presentation\n\nMHC molecules present antigen fragments to **T cells**.\n\n---\n\n### 📦 MHC Classes\n- **MHC I**: On all nucleated cells\n  - Presents **endogenous antigens** (e.g. viral)\n  - Recognized by **CD8+ T cells**\n\n- **MHC II**: On APCs (macrophages, dendritic, B cells)\n  - Presents **exogenous antigens**\n  - Recognized by **CD4+ T cells**\n\n---\n\n### 🧠 Key Takeaway\nMHC is how the immune system **knows what to attack** — critical in infection, autoimmunity, and transplant rejection."
+              },
+              {
+                "title": "Cytokines",
+                "description": "Function and types of immune signaling molecules.",
+                "notes": "### 📣 Cytokines\n\nCytokines are **messenger proteins** that coordinate immune responses.\n\n---\n\n### 🔑 Types & Functions\n- **IL-1, IL-6, TNF-α**: Fever, inflammation\n- **IL-2**: T cell proliferation\n- **IL-4, IL-5**: B cell and eosinophil activation\n- **IFN-γ**: Macrophage activation, antiviral\n\n---\n\n### 🧠 Key Takeaway\nCytokines = **orchestrators** of immunity — small molecules with **massive regulatory power**."
+              },
+              {
+                "title": "Immunodeficiencies",
+                "description": "Primary vs secondary, examples, and implications.",
+                "notes": "### 🚨 Immunodeficiencies\n\nFailure of immune system → **↑ susceptibility to infection and cancer**.\n\n---\n\n### 📌 Types\n- **Primary**: Genetic\n  - SCID: ↓ T and B cells\n  - Bruton's: ↓ B cells\n  - DiGeorge: ↓ T cells (thymic aplasia)\n- **Secondary**: Acquired\n  - HIV/AIDS (↓ CD4+)\n  - Malnutrition, chemo, splenectomy\n\n---\n\n### 🧠 Key Takeaway\nEarly diagnosis of immunodeficiency is crucial to **prevent life-threatening infections**."
+              }
+            ]
+          }
+          
+        ]},
+        {
+          "year": 3,
+          "subjects": [
+            {
+              "name": "Internal Medicine",
+              "topics": [
+                {
+                  "title": "Hypertension",
+                  "description": "Diagnosis, classification, and treatment of high blood pressure.",
+                  "notes": "### 🔴 Hypertension\n\nA chronic condition of persistently elevated **arterial blood pressure**.\n\n---\n\n### 📊 Classification (JNC 8 / ACC/AHA)\n- Normal: < 120/80 mmHg\n- Elevated: 120–129/<80\n- Stage 1 HTN: 130–139/80–89\n- Stage 2 HTN: ≥ 140/90\n\n---\n\n### 🔍 Causes\n- **Primary (Essential)**: ~90% of cases\n- **Secondary**: Renal disease, endocrine, drugs\n\n---\n\n### ⚙️ Mechanisms\n- ↑ Sympathetic tone\n- ↑ RAAS activation\n- Endothelial dysfunction\n\n---\n\n### 💊 Treatment\n- Lifestyle: Diet, salt ↓, weight ↓\n- Medications:\n  - Thiazide diuretics\n  - ACE inhibitors / ARBs\n  - Calcium channel blockers\n  - Beta-blockers (selectively)\n\n---\n\n### 🧠 Key Takeaway\nEarly control of HTN **reduces stroke, MI, CKD**."
+                },
+                {
+                  "title": "Diabetes Mellitus",
+                  "description": "Types, pathophysiology, and management.",
+                  "notes": "### 🍬 Diabetes Mellitus\n\nA chronic metabolic disorder with **hyperglycemia** due to **insulin dysfunction**.\n\n---\n\n### 🧬 Types\n- **Type 1 DM**: Autoimmune destruction of β-cells → absolute insulin deficiency\n- **Type 2 DM**: Insulin resistance + β-cell dysfunction\n\n---\n\n### 📋 Diagnosis\n- FPG ≥ 126 mg/dL\n- HbA1c ≥ 6.5%\n- OGTT ≥ 200 mg/dL (2 hr)\n- Random glucose ≥ 200 mg/dL + symptoms\n\n---\n\n### 💉 Management\n- **Type 1**: Insulin required\n- **Type 2**: Lifestyle + oral agents (metformin, SGLT2i, GLP-1RA)\n\n---\n\n### 🧠 Key Takeaway\nGlycemic control = ↓ complications: **retinopathy, nephropathy, neuropathy, macrovascular disease**"
+                },
+                {
+                  "title": "COPD and Asthma",
+                  "description": "Chronic respiratory disorders and their management.",
+                  "notes": "### 🫁 COPD & Asthma\n\nBoth are **obstructive airway diseases**, but with key differences.\n\n---\n\n### 🫧 Asthma\n- Reversible bronchoconstriction\n- Triggers: Allergens, cold, exercise\n- Management: Inhaled corticosteroids, SABA/LABA\n\n### 💨 COPD\n- Progressive, irreversible airflow limitation\n- Includes **chronic bronchitis** and **emphysema**\n- Risk: Smoking\n- Tx: Bronchodilators, ICS/LABA, oxygen, smoking cessation\n\n---\n\n### 🧠 Key Takeaway\nAsthma is **reversible and episodic**, COPD is **irreversible and progressive**."
+                },
+                {
+                  "title": "Heart Failure",
+                  "description": "Types, clinical features, investigations, and treatment.",
+                  "notes": "### 💔 Heart Failure\n\nHeart can't meet **circulatory demand** → fluid overload + poor perfusion.\n\n---\n\n### 🧾 Types\n- **HFrEF**: EF < 40% (systolic)\n- **HFpEF**: EF ≥ 50% (diastolic)\n\n---\n\n### ⚠️ Symptoms\n- Dyspnea, fatigue, orthopnea\n- Edema, JVD, rales\n\n---\n\n### 🧪 Workup\n- BNP/NT-proBNP\n- ECG, Echo\n- CXR: Cardiomegaly, pulmonary congestion\n\n---\n\n### 💊 Management\n- Diuretics (symptom relief)\n- ACEi/ARB/ARNI\n- Beta-blockers\n- Aldosterone antagonists\n- SGLT2 inhibitors\n\n---\n\n### 🧠 Key Takeaway\nHF is managed with **neurohormonal blockade**, volume control, and **close monitoring**."
+                },
+                {
+                  "title": "Infectious Diseases",
+                  "description": "Common inpatient infections and antimicrobial strategies.",
+                  "notes": "### 🦠 Infectious Diseases (Inpatient)\n\nHospitalized patients commonly face **nosocomial and opportunistic infections**.\n\n---\n\n### ⚡ Common Infections\n- Pneumonia (CAP, HAP, VAP)\n- UTI/pyelonephritis\n- Cellulitis, abscess\n- Sepsis/bacteremia\n- Clostridioides difficile colitis\n\n---\n\n### 💉 Empiric Antibiotic Principles\n- Start broad, then de-escalate\n- Use local antibiogram\n- Duration depends on site/severity\n\n---\n\n### 🧠 Key Takeaway\nPrompt recognition + targeted antibiotics = **↓ mortality, ↓ resistance**."
+                }
+              ]
+            },
+            
+            {
+              "name": "General Surgery",
+              "topics": [
+                {
+                  "title": "Appendicitis",
+                  "description": "Presentation, diagnosis, and surgical treatment.",
+                  "notes": "### ⚠️ Appendicitis\n\n**Inflammation of the appendix** — the most common abdominal emergency.\n\n---\n\n### 📍 Clinical Features\n- Periumbilical pain → RLQ (McBurney's point)\n- Anorexia, nausea, low-grade fever\n- Rebound tenderness, Rovsing’s sign, Psoas sign\n\n---\n\n### 🧪 Diagnosis\n- CBC: ↑ WBC\n- US (kids), CT scan (adults)\n\n---\n\n### 🩺 Treatment\n- **Appendectomy** (laparoscopic preferred)\n- IV fluids, analgesia, antibiotics\n\n---\n\n### 🧠 Key Takeaway\nEarly recognition & surgery prevent **rupture → peritonitis**."
+                },
+                {
+                  "title": "Hernias",
+                  "description": "Types of hernias and surgical repair principles.",
+                  "notes": "### 🎒 Hernias\n\nProtrusion of tissue through a weakness in the abdominal wall.\n\n---\n\n### 📌 Types\n- **Inguinal (most common)**\n  - Indirect: Through inguinal canal (congenital)\n  - Direct: Through Hesselbach’s triangle\n- **Femoral**: Below inguinal ligament (↑ strangulation risk)\n- **Umbilical, Incisional**\n\n---\n\n### 🧪 Diagnosis\n- Physical exam\n- US/CT if uncertain\n\n---\n\n### 🔧 Treatment\n- Surgical repair: Open or laparoscopic mesh repair\n\n---\n\n### 🧠 Key Takeaway\nAll symptomatic hernias → **surgery**, especially if **incarcerated or strangulated**."
+                },
+                {
+                  "title": "Gallbladder Disease",
+                  "description": "Cholelithiasis, cholecystitis, and treatment.",
+                  "notes": "### 🟡 Gallbladder Disease\n\nIncludes **stones (cholelithiasis)** and **inflammation (cholecystitis)**.\n\n---\n\n### 🧾 Risk Factors\n- Female, Fat, Forty, Fertile\n\n---\n\n### 📌 Presentations\n- Biliary colic: RUQ pain, post-fatty meal, resolves\n- Acute cholecystitis: Persistent pain, fever, Murphy’s sign\n\n---\n\n### 🧪 Workup\n- US: Stones, wall thickening, pericholecystic fluid\n- Labs: ↑ WBC, mild ↑ AST/ALT\n\n---\n\n### 🩺 Treatment\n- NPO, IV fluids, antibiotics\n- **Cholecystectomy** (laparoscopic preferred)\n\n---\n\n### 🧠 Key Takeaway\nAcute cholecystitis = urgent surgery; biliary colic = elective."
+                },
+                {
+                  "title": "Thyroid Disorders",
+                  "description": "Goiter, nodules, and surgical indications.",
+                  "notes": "### 🦋 Thyroid Disorders (Surgical)\n\nCommon surgical indications: **nodule, goiter, cancer suspicion**.\n\n---\n\n### 📌 Goiter\n- Diffuse: Iodine deficiency, Graves\n- Multinodular: Toxic/non-toxic\n\n### 🎯 Thyroid Nodule\n- FNA based on size/risk\n- US features: hypoechoic, irregular, microcalcifications → higher malignancy\n\n---\n\n### 🧪 Labs & Imaging\n- TSH, Free T4, US, +/- scintigraphy\n\n---\n\n### 🔧 Surgery Indications\n- Suspicious/cancerous FNA\n- Compression symptoms\n- Toxic adenoma\n\n---\n\n### 🧠 Key Takeaway\nAlways evaluate nodule with **TSH + US + FNA** before considering surgery."
+                },
+                {
+                  "title": "Trauma Management",
+                  "description": "Initial assessment, ABCs, and surgical intervention.",
+                  "notes": "### 🚨 Trauma Management (ATLS)\n\nInitial priority in trauma = **life-threatening conditions**.\n\n---\n\n### 🛡️ Primary Survey (ABCDE)\n- **A**irway with C-spine\n- **B**reathing\n- **C**irculation with hemorrhage control\n- **D**isability (GCS, pupils)\n- **E**xposure (undress, temperature)\n\n---\n\n### 🔍 Secondary Survey\n- Head-to-toe assessment after stabilization\n\n### 📸 Imaging\n- FAST exam\n- CXR, Pelvis XR\n\n---\n\n### 🧠 Key Takeaway\n**Early recognition + rapid intervention = survival.** Prioritize ABCs always."
+                }
+              ]
+            },
+            
+            {
+              "name": "Pediatrics",
+              "topics": [
+                {
+                  "title": "Growth and Development",
+                  "description": "Milestones and developmental screening.",
+                  "notes": "### 📈 Growth & Development\n\nTracking physical and neurological development is **key to early detection of delays**.\n\n---\n\n### 📊 Milestones (Pareto Set)\n- **2 months**: Smiles, coos, lifts head\n- **6 months**: Sits, babbles, stranger anxiety\n- **12 months**: Walks, says 1–2 words\n- **18 months**: Scribbles, feeds self\n- **2 years**: 2-word phrases, runs, stacks 4 blocks\n- **3 years**: Tricycle, toilet training starts\n\n---\n\n### 📏 Growth Curves\n- Weight doubles by 5–6 months, triples by 1 year\n- Use WHO <2 yrs, CDC ≥2 yrs\n\n---\n\n### 🧠 Key Takeaway\nEarly milestone tracking = **early intervention** for **autism, CP, language delays**."
+                },
+                {
+                  "title": "Common Pediatric Infections",
+                  "description": "Presentation and treatment of viral and bacterial infections.",
+                  "notes": "### 🤒 Pediatric Infections (High-Yield)\n\nMost common: **respiratory, ear, GI, and viral exanthems**.\n\n---\n\n### 🦠 Viral\n- **RSV bronchiolitis**: Wheezy infant, supportive care\n- **Influenza**: Fever, myalgia, oseltamivir if early\n- **Measles**: Cough, coryza, conjunctivitis + rash\n\n---\n\n### 🧫 Bacterial\n- **Otitis media**: Amoxicillin\n- **Strep pharyngitis**: Penicillin\n- **UTI**: E. coli; treat based on age, fever\n\n---\n\n### 🧠 Key Takeaway\nTreat **bacterial**, support **viral** — know **red flags**: toxic look, dehydration, persistent fever."
+                },
+                {
+                  "title": "Childhood Nutrition",
+                  "description": "Feeding guidelines, malnutrition, obesity.",
+                  "notes": "### 🍎 Childhood Nutrition\n\nCrucial for **growth, cognition**, and **immune development**.\n\n---\n\n### 📅 Feeding Guidelines\n- **Exclusive breastfeeding**: 0–6 months\n- **Start solids**: Around 6 months\n- **Whole milk**: Introduce after 12 months\n\n---\n\n### ⚠️ Malnutrition\n- **Marasmus**: Calorie deficiency (wasted)\n- **Kwashiorkor**: Protein deficiency (edematous)\n\n### 📉 Obesity\n- Screen with BMI >95th percentile\n- Prevent with diet, exercise, screen limits\n\n---\n\n### 🧠 Key Takeaway\n**Early nutrition** = foundation for **lifelong health** — balance under/overfeeding risks."
+                },
+                {
+                  "title": "Pediatric Emergencies",
+                  "description": "Febrile seizures, dehydration, asthma exacerbation.",
+                  "notes": "### 🚨 Pediatric Emergencies (Core Set)\n\nMost common emergencies: **seizure, breathing trouble, dehydration**.\n\n---\n\n### ⚡ Febrile Seizures\n- Age: 6 mo – 5 yrs, tonic-clonic, <15 min\n- Workup if <1 yr or atypical\n- Tx: Antipyretics, reassurance\n\n### 💧 Dehydration\n- Signs: ↓ turgor, dry mucosa, sunken eyes\n- Tx: ORS if mild, IV NS if severe\n\n### 🫁 Asthma Exacerbation\n- Sx: Wheeze, dyspnea, use of accessory muscles\n- Tx: Albuterol neb, steroids, O₂\n\n---\n\n### 🧠 Key Takeaway\nPediatric emergencies = **speedy recognition** + **weight-based dosing** + **fluid support**."
+                },
+                {
+                  "title": "Vaccination Schedule",
+                  "description": "Recommended vaccines and timing.",
+                  "notes": "### 💉 Vaccination Schedule (Core)\n\nEssential to prevent **life-threatening infectious diseases**.\n\n---\n\n### 📅 Key Vaccines by Age\n- **Birth**: BCG, Hep B\n- **6, 10, 14 weeks**: DPT, OPV/IPV, Hib, Hep B\n- **9 months**: Measles, yellow fever\n- **12–18 months**: MMR, PCV booster\n- **5 years**: DPT, polio boosters\n\n---\n\n### 🧠 Key Takeaway\nTimely vaccination = **herd immunity**, **public health cornerstone**, and **lifesaver** for children."
+                }
+              ]
+            },
+            
+            {
+              "name": "Obstetrics and Gynecology",
+              "topics": [
+                {
+                  "title": "Antenatal Care",
+                  "description": "Pregnancy monitoring and screening tests.",
+                  "notes": "### 🤰 Antenatal Care\n\nRegular care improves **maternal and fetal outcomes**.\n\n---\n\n### 📅 Visit Schedule (Typical)\n- Monthly: Until 28 weeks\n- Biweekly: 28–36 weeks\n- Weekly: 36 weeks to delivery\n\n---\n\n### 🧪 Screening\n- Blood group, Rh, CBC, HIV, Hep B, Syphilis\n- US for dating (1st tri), anomalies (2nd tri), growth (3rd)\n- GDM: OGTT at 24–28 weeks\n\n---\n\n### 🧠 Key Takeaway\nEarly & regular antenatal care detects **complications early** and supports **healthy pregnancy**."
+                },
+                {
+                  "title": "Normal Labor and Delivery",
+                  "description": "Stages of labor and delivery mechanisms.",
+                  "notes": "### 👶 Labor and Delivery\n\nCoordinated uterine contractions leading to **expulsion of fetus and placenta**.\n\n---\n\n### 🔄 Stages of Labor\n1. **Latent**: Onset to 6 cm dilation\n2. **Active**: 6 → 10 cm\n3. **Second**: Full dilation → delivery\n4. **Third**: Delivery → placenta\n\n---\n\n### 🧠 Cardinal Movements\nEngagement → Descent → Flexion → Internal Rotation → Extension → External Rotation → Expulsion\n\n---\n\n### 🧠 Key Takeaway\nUnderstand labor stages to **monitor progression**, intervene when needed, and ensure **safe delivery**."
+                },
+                {
+                  "title": "Postpartum Complications",
+                  "description": "Bleeding, infection, depression.",
+                  "notes": "### 🤱 Postpartum Complications\n\nFirst 6 weeks = **puerperium** — monitor for **danger signs**.\n\n---\n\n### ⚠️ Common Issues\n- **Hemorrhage**: Uterine atony most common (Tx: massage, oxytocin)\n- **Infection**: Endometritis, wound infection, mastitis\n- **Mental health**: Baby blues (resolves), **PP depression** (>2 weeks, Tx: therapy/SSRIs)\n\n---\n\n### 🧠 Key Takeaway\nPostpartum care = monitor bleeding, mood, and **support maternal health** during recovery."
+                },
+                {
+                  "title": "Common Gynecological Conditions",
+                  "description": "PCOS, fibroids, endometriosis.",
+                  "notes": "### 🧬 Common Gynecologic Disorders\n\nChronic conditions affecting **fertility, bleeding, and pain**.\n\n---\n\n### ⚠️ High-Yield Conditions\n- **PCOS**: Oligomenorrhea, hirsutism, insulin resistance\n- **Fibroids (leiomyoma)**: Heavy bleeding, pelvic mass\n- **Endometriosis**: Cyclic pelvic pain, dysmenorrhea, dyspareunia\n\n---\n\n### 🔍 Diagnosis\n- US for fibroids/PCOS\n- Laparoscopy for endometriosis\n\n---\n\n### 🧠 Key Takeaway\nChronic GYN disorders are **hormonally influenced** and often affect **fertility or QoL**."
+                },
+                {
+                  "title": "Contraception",
+                  "description": "Types, effectiveness, indications.",
+                  "notes": "### 🛡️ Contraception\n\nWide range of options for **pregnancy prevention**, cycle control, and medical indications.\n\n---\n\n### 🔸 Methods\n- **Barrier**: Condoms (STI protection)\n- **Hormonal**: OCPs, patch, ring, injectable\n- **Long-acting**: IUD (hormonal/copper), implant\n- **Permanent**: Tubal ligation, vasectomy\n\n### 💯 Effectiveness\n- Most effective: IUDs, implants\n- Least effective: Withdrawal, spermicide\n\n---\n\n### 🧠 Key Takeaway\nChoose contraception based on **efficacy, patient preference, comorbidities**."
+                }
+              ]
+            },
+            
+            {
+              "name": "Diagnostic Imaging",
+              "topics": [
+                {
+                  "title": "X-Ray Interpretation",
+                  "description": "Chest and abdominal radiograph basics.",
+                  "notes": "### 📷 X-Ray Interpretation (CXR & AXR)\n\nX-rays are **first-line** for many clinical scenarios.\n\n---\n\n### 🔍 Chest X-Ray (CXR) — ABCDE Approach\n- **A**irway: Trachea midline\n- **B**ones: Clavicles, ribs, spine\n- **C**ardiac: Size <50% (PA view)\n- **D**iaphragm: Costophrenic angles clear\n- **E**verything else: Lung fields, devices\n\n---\n\n### 🩺 Common Findings\n- Consolidation → pneumonia\n- Hyperinflation → COPD/asthma\n- Pleural effusion → blunting\n\n---\n\n### ⚙️ Abdominal X-Ray (AXR)\n- Use for obstruction, perforation\n- Look for air-fluid levels, free air\n\n---\n\n### 🧠 Key Takeaway\nSystematic reading of X-rays helps catch **life-threatening pathology quickly**."
+                },
+                {
+                  "title": "Ultrasound Principles",
+                  "description": "Indications, strengths, and limitations.",
+                  "notes": "### 🧪 Ultrasound (US) Basics\n\nUses **sound waves** to visualize **soft tissues** in real-time.\n\n---\n\n### ✅ Strengths\n- Safe: No radiation\n- Bedside availability (POCUS)\n- Visualize fluid, vessels, fetal structures\n\n### ⚠️ Limitations\n- Operator-dependent\n- Poor for air or bone-containing structures\n\n---\n\n### 📌 Indications\n- **Obstetrics**: Fetal age, position, viability\n- **Abdomen**: Gallstones, kidney, free fluid (FAST)\n- **Vascular**: DVT, carotids\n\n---\n\n### 🧠 Key Takeaway\nUltrasound = **safe, versatile, first-line tool** in many settings."
+                },
+                {
+                  "title": "CT and MRI",
+                  "description": "When to order, safety, interpretation basics.",
+                  "notes": "### 🧠 CT & MRI\n\nAdvanced imaging used for **internal detail** and **complex pathology**.\n\n---\n\n### 🖼️ CT Scan\n- Uses X-rays, cross-sectional\n- **Fast**, great for bone, blood, lungs\n- Caution: Radiation + contrast nephropathy\n\n### 🧲 MRI\n- Uses magnetic fields, no radiation\n- **Best for soft tissue**: Brain, spine, joints\n- Caution: Time, cost, metal implants\n\n---\n\n### 📌 Use Cases\n- **CT Head**: Bleed, trauma\n- **CT Chest/Abdomen**: PE, tumors, trauma\n- **MRI Brain/Spine**: Tumors, MS, disc disease\n\n---\n\n### 🧠 Key Takeaway\nCT = fast, trauma-focused. MRI = detailed, neuro/muscle-focus. Pick based on **speed vs detail**."
+                }
+              ]
+            },
+            
+            {
+              "name": "Clinical Skills",
+              "topics": [
+                {
+                  "title": "History Taking",
+                  "description": "Structure of a comprehensive medical history.",
+                  "notes": "### 🗣️ History Taking\n\nFoundational for diagnosis — effective history = 80% of diagnosis.\n\n---\n\n### 📋 Basic Structure\n- **Chief Complaint** (CC)\n- **History of Present Illness (HPI)**: Onset, location, duration, character, alleviating/aggravating factors\n- **Past Medical History (PMH)**\n- **Medications & Allergies**\n- **Family History (FH)**\n- **Social History (SH)**: Smoking, alcohol, occupation\n- **Review of Systems (ROS)**\n\n---\n\n### 🧠 Key Takeaway\nA focused, empathetic history = **faster diagnosis**, stronger **patient trust**."
+                },
+                {
+                  "title": "Physical Examination",
+                  "description": "Head-to-toe exam basics, special tests.",
+                  "notes": "### 👨‍⚕️ Physical Exam\n\nObjective evaluation of health status — done **systematically**.\n\n---\n\n### 🩺 General Flow\n1. **General appearance**\n2. **Vital signs** (T, BP, HR, RR, O₂)\n3. **HEENT**, **Neck** (thyroid, lymph)\n4. **Chest/lungs**: Inspection, percussion, auscultation\n5. **CVS**: Heart sounds, JVP, pulses\n6. **Abdomen**: Inspection → palpation → percussion → auscultation\n7. **Neuro exam**: Reflexes, strength, cranial nerves\n\n---\n\n### 🧠 Key Takeaway\nAlways **observe, inspect, palpate, percuss, auscultate** — in that order!"
+                },
+                {
+                  "title": "ECG Interpretation",
+                  "description": "Reading rhythm strips and common patterns.",
+                  "notes": "### ❤️ ECG Interpretation\n\nRapid, non-invasive cardiac assessment.\n\n---\n\n### 🪜 Step-by-Step\n1. **Rate**: 300 ÷ big squares between R waves\n2. **Rhythm**: Regular? P waves present?\n3. **Axis**: Normal = lead I & aVF both ↑\n4. **P waves**: Atrial activity\n5. **PR/QRS/QT intervals**: Check duration\n6. **ST/T waves**: Ischemia or injury?\n\n---\n\n### ⚠️ Common Pathologies\n- **ST Elevation**: MI\n- **AFib**: Irregularly irregular, no P\n- **Heart Block**: Prolonged PR, dropped beats\n\n---\n\n### 🧠 Key Takeaway\nMaster ECG by repetition — start with **rate, rhythm, intervals**, then patterns."
+                },
+                {
+                  "title": "Basic Procedures",
+                  "description": "IV insertion, catheterization, blood draw.",
+                  "notes": "### 💉 Basic Clinical Procedures\n\nHands-on tasks every doctor must master.\n\n---\n\n### 🧪 Core Skills\n- **IV Cannulation**: Tourniquet → alcohol → bevel up → secure\n- **Urinary Catheterization**: Sterile technique, balloon inflation\n- **Venipuncture**: Median cubital vein, label tubes\n- **Blood Culture**: Use separate site + antisepsis\n\n---\n\n### ⚠️ Tips\n- Always **confirm identity**, explain procedure\n- Use **PPE**, maintain **asepsis**\n\n---\n\n### 🧠 Key Takeaway\nProcedures = **practice, preparation**, and **patient comfort** — never skip the checklist!"
+                }
+              ]
+            }
+            
+          ]
+        },
+        
+        {
+          "year": 4,
+          "subjects": [
+            {
+              "name": "Neurology",
+              "topics": [
+                {
+                  "title": "Stroke",
+                  "description": "Types, symptoms, diagnosis, and acute management.",
+                  "notes": "### 🧠 Stroke\n\nSudden neurologic deficit due to **ischemia or hemorrhage**.\n\n---\n\n### ⚡ Types\n- **Ischemic (85%)**: Thrombotic, embolic\n- **Hemorrhagic (15%)**: ICH, SAH\n\n### 🧾 Symptoms\n- FAST: Face droop, Arm weakness, Speech slurred, Time critical\n- Hemiparesis, aphasia, vision loss\n\n### 🧪 Workup\n- **CT Head (non-contrast)**: Rule out bleed\n- MRI for early ischemia\n- ECG, carotid US, echo\n\n---\n\n### 💉 Management\n- Ischemic: **tPA** if <4.5 hr, thrombectomy\n- Hemorrhagic: BP control, neurosurg eval\n\n---\n\n### 🧠 Key Takeaway\nStroke = **emergency** — time is brain! Act fast, scan early, and **reperfuse or protect**."
+                },
+                {
+                  "title": "Seizures and Epilepsy",
+                  "description": "Classification, diagnosis, and treatment.",
+                  "notes": "### ⚡ Seizures & Epilepsy\n\n**Seizure** = transient electrical brain event. **Epilepsy** = 2+ unprovoked seizures.\n\n---\n\n### 📌 Types\n- **Focal**: One hemisphere (aware or impaired)\n- **Generalized**: Bilateral (tonic-clonic, absence)\n\n### 🧪 Workup\n- EEG, MRI brain\n- Labs: glucose, electrolytes, toxins\n\n### 💊 Treatment\n- 1st line: **Levetiracetam**, phenytoin, valproate\n- Status epilepticus: Benzos first → phenytoin\n\n---\n\n### 🧠 Key Takeaway\nDifferentiate types → tailor treatment → watch for **status epilepticus**!"
+                },
+                {
+                  "title": "Headache Disorders",
+                  "description": "Migraine, tension, cluster headache features and treatment.",
+                  "notes": "### 🤕 Headache Disorders\n\nMost headaches are benign — ID **red flags** to rule out danger.\n\n---\n\n### 🧠 Primary Headaches\n- **Migraine**: Pulsatile, unilateral, photophobia, +/- aura (Tx: triptans)\n- **Tension**: Band-like, bilateral, stress-linked (Tx: NSAIDs)\n- **Cluster**: Severe, periorbital, lacrimation, same time daily (Tx: O₂, triptans)\n\n### 🚨 Red Flags (SNOOP)\n- Systemic signs\n- Neuro deficits\n- Onset sudden (thunderclap)\n- Older age\n- Pattern change\n\n---\n\n### 🧠 Key Takeaway\nHeadache + neuro signs → **scan brain**. Migraine = **functional**, cluster = **excruciating**, tension = **common**."
+                },
+                {
+                  "title": "Neuro Exam",
+                  "description": "Cranial nerves, motor/sensory, gait.",
+                  "notes": "### 🧠 Neurological Exam\n\nStructured exam = localization of neuro lesions.\n\n---\n\n### 🔍 Components\n- **Cranial Nerves (CN I–XII)**: Vision, facial symmetry, tongue, swallow\n- **Motor**: Strength, tone, reflexes\n- **Sensory**: Light touch, pinprick, proprioception\n- **Cerebellar**: Finger-nose, heel-shin, Romberg\n- **Gait**: Normal, tandem, toe/heel walk\n\n---\n\n### 🧠 Key Takeaway\nNeuro exam helps pinpoint **CNS vs PNS** issues — practice makes precision."
+                }
+              ]
+            },
+            
+            {
+              "name": "Psychiatry",
+              "topics": [
+                {
+                  "title": "Depression and Mood Disorders",
+                  "description": "Major depressive disorder, bipolar disorder.",
+                  "notes": "### 😔 Depression & Mood Disorders\n\nAffect **mood, energy, and function** — common and treatable.\n\n---\n\n### 🧠 Major Depressive Disorder (MDD)\n- ≥2 weeks of: Depressed mood or anhedonia + ≥4 SIGECAPS (Sleep, Interest, Guilt, Energy, Concentration, Appetite, Psychomotor, Suicidality)\n- Must cause functional impairment\n\n### 🔁 Bipolar Disorder\n- **Bipolar I**: ≥1 manic episode (with or without depression)\n- **Bipolar II**: Hypomania + depression\n\n### 💊 Treatment\n- Depression: SSRIs (e.g. sertraline)\n- Bipolar: Mood stabilizers (lithium, valproate), antipsychotics\n\n---\n\n### 🧠 Key Takeaway\nMood disorders vary in intensity — **screen early**, **treat promptly**."
+                },
+                {
+                  "title": "Anxiety Disorders",
+                  "description": "GAD, panic, phobias, PTSD.",
+                  "notes": "### 😟 Anxiety Disorders\n\nExcessive fear or worry with **functional impact**.\n\n---\n\n### 📌 Types\n- **GAD**: Chronic worry + muscle tension, insomnia\n- **Panic Disorder**: Recurrent attacks + fear of recurrence\n- **Phobias**: Specific object/situation avoidance\n- **PTSD**: After trauma: intrusive memories, avoidance, hyperarousal\n\n---\n\n### 💊 Management\n- CBT = first-line for all\n- SSRIs/SNRIs (e.g. sertraline, venlafaxine)\n- Benzos short-term only\n\n---\n\n### 🧠 Key Takeaway\nRule out medical causes (e.g. hyperthyroid) — anxiety is **high-prevalence, high-impact**."
+                },
+                {
+                  "title": "Psychosis and Schizophrenia",
+                  "description": "Symptoms, diagnosis, antipsychotic meds.",
+                  "notes": "### 🧩 Psychosis & Schizophrenia\n\nPsychosis = loss of **reality testing** — hallucinations, delusions, disorganized thought.\n\n---\n\n### 🧠 Schizophrenia\n- ≥6 months of disturbance, with ≥1 month active symptoms\n- Positive symptoms: Delusions, hallucinations\n- Negative: Flat affect, avolition\n\n### 📊 Subtypes\n- Brief psychotic (<1 month)\n- Schizophreniform (<6 months)\n\n### 💊 Treatment\n- Antipsychotics:\n  - Typical: Haloperidol (↑ EPS risk)\n  - Atypical: Risperidone, olanzapine (metabolic risk)\n\n---\n\n### 🧠 Key Takeaway\nSchizophrenia = **chronic, functional loss** → long-term meds + psychosocial support."
+                },
+                {
+                  "title": "Substance Use Disorders",
+                  "description": "Alcohol, opioids, stimulants.",
+                  "notes": "### 🍷 Substance Use Disorders\n\nCompulsive use despite harm — chronic relapsing brain disease.\n\n---\n\n### ⚡ Key Substances\n- **Alcohol**: Withdrawal → tremors, seizures, delirium tremens\n- **Opioids**: Pinpoint pupils, respiratory depression; withdrawal = yawning, lacrimation\n- **Stimulants**: Euphoria, tachycardia, paranoia (e.g. cocaine, amphetamines)\n\n---\n\n### 🩺 Management\n- Alcohol: Benzos, thiamine, naltrexone\n- Opioids: Naloxone (OD), methadone/buprenorphine (maintenance)\n- Stimulants: Supportive, CBT\n\n---\n\n### 🧠 Key Takeaway\nTreat **withdrawal safely**, support **recovery** — harm reduction saves lives."
+                }
+              ]
+            },
+            
+            {
+              "name": "Dermatology",
+              "topics": [
+                {
+                  "title": "Skin Lesion Identification",
+                  "description": "Macule, papule, vesicle, etc.",
+                  "notes": "### 🔍 Skin Lesion Basics\n\nIdentify by **size, shape, color, contents**.\n\n---\n\n### 🧱 Primary Lesions\n- **Macule**: Flat, <1 cm (e.g. freckle)\n- **Papule**: Raised, <1 cm (e.g. acne)\n- **Plaque**: Raised, >1 cm (e.g. psoriasis)\n- **Vesicle**: Fluid-filled, <1 cm (e.g. HSV)\n- **Bulla**: Fluid-filled, >1 cm (e.g. blister)\n- **Pustule**: Pus-filled (e.g. folliculitis)\n- **Nodule**: Solid, deep, >1 cm\n\n---\n\n### 🧠 Key Takeaway\nKnowing basic lesion types helps with **diagnosis and documentation**."
+                },
+                {
+                  "title": "Common Skin Conditions",
+                  "description": "Acne, eczema, psoriasis, urticaria.",
+                  "notes": "### 🌿 Common Derm Conditions\n\nChronic, inflammatory, or immune skin disorders.\n\n---\n\n### 📌 Key Disorders\n- **Acne vulgaris**: Comedones, pustules; tx: retinoids, benzoyl, abx\n- **Eczema (AD)**: Pruritic, flexural, dry; tx: emollients, steroids\n- **Psoriasis**: Silvery plaques, extensor; tx: steroids, vit D, biologics\n- **Urticaria**: Transient wheals; tx: antihistamines\n\n---\n\n### 🧠 Key Takeaway\nMost rashes respond to **moisture, steroids, antihistamines** — tailor based on **pattern and triggers**."
+                },
+                {
+                  "title": "Skin Infections",
+                  "description": "Bacterial, fungal, viral.",
+                  "notes": "### 🧫 Skin Infections\n\nClassified by **cause and depth**.\n\n---\n\n### 🦠 Bacterial\n- Impetigo (S. aureus): Honey crust, mupirocin/oral abx\n- Cellulitis: Red, warm, tender, usually S. aureus/Strep; tx: flucloxacillin\n\n### 🍄 Fungal\n- Tinea: Ringworm (corporis, pedis); tx: topical azoles\n- Candida: Intertriginous, oral thrush\n\n### 🦠 Viral\n- HSV: Vesicles on erythematous base\n- Varicella/Zoster: Dewdrops → crust\n\n---\n\n### 🧠 Key Takeaway\nID the **pathogen type**, **treat early**, **prevent spread** — use topicals or orals as needed."
+                },
+                {
+                  "title": "Skin Cancer Basics",
+                  "description": "Basal, squamous, melanoma overview.",
+                  "notes": "### ☀️ Skin Cancer Overview\n\nCaused by **UV exposure** + genetics — early detection saves lives.\n\n---\n\n### 🧬 Types\n- **Basal Cell Carcinoma (BCC)**: Pearly papule, telangiectasia, slow-growing\n- **Squamous Cell Carcinoma (SCC)**: Crusty ulcer/plaque, sun-exposed, can metastasize\n- **Melanoma**: Irregular mole; ABCDE (Asymmetry, Border, Color, Diameter >6mm, Evolving)\n\n---\n\n### 🧪 Diagnosis\n- Dermoscopy\n- Biopsy (punch/excisional)\n\n---\n\n### 🧠 Key Takeaway\n**ABCDE** criteria + sun history → suspect melanoma → **urgent biopsy**."
+                }
+              ]
+            },
+            
+            {
+              "name": "Emergency Medicine",
+              "topics": [
+                {
+                  "title": "ABC Assessment and Resuscitation",
+                  "description": "Primary survey and stabilization approach.",
+                  "notes": "### 🆘 ABC Assessment (Primary Survey)\n\nCore of **Advanced Trauma Life Support (ATLS)** — prioritize life threats.\n\n---\n\n### 🔤 ABCDE Steps\n- **A**irway + cervical spine protection\n- **B**reathing: Check RR, symmetry, O₂\n- **C**irculation: Pulse, BP, bleeding, IV access\n- **D**isability: GCS, pupils, glucose\n- **E**xposure: Full exam, prevent hypothermia\n\n---\n\n### 🧠 Key Takeaway\nABCs first in **every emergency** — correct immediate threats **before detailed diagnosis**."
+                },
+                {
+                  "title": "Shock Types and Management",
+                  "description": "Hypovolemic, septic, anaphylactic, cardiogenic.",
+                  "notes": "### ⚡ Shock: Types & Treatment\n\nShock = **inadequate tissue perfusion** → organ failure.\n\n---\n\n### 🔍 Types\n- **Hypovolemic**: Hemorrhage, dehydration (Tx: fluids)\n- **Cardiogenic**: MI, arrhythmia (Tx: inotropes)\n- **Septic**: Infection + vasodilation (Tx: fluids + abx)\n- **Anaphylactic**: Allergy, histamine surge (Tx: **epinephrine IM**)\n\n---\n\n### 🧪 Diagnosis\n- Lactate ↑, BP ↓, tachycardia\n- Look for underlying cause\n\n---\n\n### 🧠 Key Takeaway\nRecognize type fast → restore perfusion → treat cause → **monitor vitals & urine output**."
+                },
+                {
+                  "title": "Acute Chest Pain",
+                  "description": "MI, PE, dissection, pneumothorax.",
+                  "notes": "### ❤️ Acute Chest Pain\n\nNot all chest pain is cardiac — **recognize killers** early.\n\n---\n\n### ⚠️ 5 Must-Not-Miss Diagnoses\n- **MI**: Crushing, radiates to arm/jaw (ECG, troponin)\n- **PE**: Pleuritic, SOB, tachycardia (D-dimer, CT-PA)\n- **Aortic Dissection**: Tearing pain, pulse deficit (CTA, BP diff)\n- **Pneumothorax**: Sudden, unilateral, ↓ breath sounds (CXR)\n- **Pericarditis/Tamponade**: Positional pain, muffled heart sounds (Echo)\n\n---\n\n### 🧠 Key Takeaway\nDo **ECG + troponin + CXR + vitals** first → stabilize, then image if needed."
+                },
+                {
+                  "title": "Poisoning and Overdose",
+                  "description": "Common toxidromes and treatments.",
+                  "notes": "### ☠️ Poisoning & Overdose\n\nEmergency diagnosis by **toxidrome patterns**.\n\n---\n\n### 🔍 Toxidromes\n- **Opioids**: Pinpoint pupils, ↓ RR → naloxone\n- **Anticholinergic**: Hot, dry, blind, red, mad → physostigmine (rare)\n- **Cholinergic (organophosphates)**: Salivation, diarrhea → atropine + pralidoxime\n- **Sympathomimetic**: Tachycardia, agitation → benzos, fluids\n\n---\n\n### 💉 Universal Measures\n- ABCs, activated charcoal (if early), antidote if known\n- Monitor ECG, glucose, electrolytes\n\n---\n\n### 🧠 Key Takeaway\nUse the **toxidrome** to guide **antidote** — always stabilize airway and vitals first."
+                }
+              ]
+            },
+            
+            {
+              "name": "Obstetrics & Gynecology (Advanced)",
+              "topics": [
+                {
+                  "title": "High-Risk Pregnancy",
+                  "description": "Gestational diabetes, hypertension, preterm labor.",
+                  "notes": "### ⚠️ High-Risk Pregnancy\n\nConditions that increase **maternal or fetal complications**.\n\n---\n\n### 🧪 Key Conditions\n- **Gestational Diabetes**: Screen @ 24–28 wks (OGTT)\n  - Tx: Diet, insulin\n- **Gestational Hypertension**: BP ≥ 140/90 after 20 weeks\n- **Preeclampsia**: HTN + proteinuria/organ damage\n  - Severe: ↑ BP, headache, vision changes\n  - Tx: MgSO₄ (seizure prophylaxis), delivery if term\n- **Preterm Labor**: <37 wks + contractions + cervix changes\n  - Tx: Tocolytics, steroids\n\n---\n\n### 🧠 Key Takeaway\nMonitor closely, manage actively — aim for **safe timing of delivery**."
+                },
+                {
+                  "title": "Fetal Monitoring",
+                  "description": "CTG interpretation and prenatal assessment.",
+                  "notes": "### 📉 Fetal Monitoring (CTG & Beyond)\n\nAssesses fetal well-being before and during labor.\n\n---\n\n### 📋 CTG (Cardiotocography)\n- **Baseline HR**: 110–160 bpm\n- **Variability**: 6–25 bpm = reassuring\n- **Accelerations**: Normal, reactive\n- **Decelerations**:\n  - Early = head compression\n  - Variable = cord\n  - Late = placental insufficiency (bad)\n\n### 🧪 Other Tools\n- Biophysical profile (BPP)\n- Doppler flow studies (IUGR)\n\n---\n\n### 🧠 Key Takeaway\nCTG = **noninvasive window** into fetal status — act fast with **non-reassuring patterns**."
+                },
+                {
+                  "title": "Gynecological Cancers",
+                  "description": "Cervical, ovarian, endometrial basics.",
+                  "notes": "### 🧬 GYN Cancers Overview\n\nOften present late — screening and suspicion are key.\n\n---\n\n### 📍 Cervical Cancer\n- HPV-related (16, 18)\n- Screen: Pap smear + HPV testing\n- Tx: LEEP, hysterectomy, chemorads\n\n### 📍 Ovarian Cancer\n- Silent, adnexal mass, ↑ CA-125\n- Tx: Surgery + chemo\n\n### 📍 Endometrial Cancer\n- Postmenopausal bleeding\n- Risk: Obesity, unopposed estrogen\n- Dx: Endometrial biopsy\n\n---\n\n### 🧠 Key Takeaway\n**Early signs = early cure** — understand risk factors and screening guidelines."
+                }
+              ]
+            },
+            
+            {
+              "name": "Clinical Ethics and Communication",
+              "topics": [
+                {
+                  "title": "Informed Consent",
+                  "description": "Legal and ethical considerations.",
+                  "notes": "### 📝 Informed Consent\n\nLegal + ethical duty to ensure patients make **informed, voluntary decisions**.\n\n---\n\n### ✅ Elements of Valid Consent\n1. **Capacity**: Patient can understand/decide\n2. **Information**: Nature, risks, alternatives, consequences\n3. **Voluntariness**: No coercion\n4. **Understanding & agreement**\n\n---\n\n### 🧠 Exceptions\n- Emergencies\n- Minors (some cases)\n- Court-ordered treatment\n\n---\n\n### 🧠 Key Takeaway\nConsent is not just a form — it's a **conversation** that builds **trust and autonomy**."
+                },
+                {
+                  "title": "Breaking Bad News",
+                  "description": "SPIKES protocol and sensitive communication.",
+                  "notes": "### 💬 Breaking Bad News (SPIKES)\n\nDelivering difficult news with **clarity, empathy, and support**.\n\n---\n\n### 🧱 SPIKES Protocol\n- **S**etting: Private, comfortable\n- **P**erception: What does the patient know?\n- **I**nvitation: How much do they want to know?\n- **K**nowledge: Provide info clearly\n- **E**motions: Acknowledge, support\n- **S**trategy: Next steps, questions\n\n---\n\n### 🧠 Key Takeaway\nUse SPIKES to **honor emotions**, **maintain clarity**, and **offer support**."
+                },
+                {
+                  "title": "End-of-Life Care",
+                  "description": "Palliative care principles, DNR, advanced directives.",
+                  "notes": "### 🕊️ End-of-Life Care\n\nFocus on **comfort, dignity**, and **family support** — not cure.\n\n---\n\n### 🌼 Palliative Principles\n- Symptom control: Pain, nausea, breathlessness\n- Psychological, spiritual, family support\n- Clear communication on goals\n\n### 📋 DNR & Advance Directives\n- Respect patient autonomy\n- Clarify before deterioration\n- Document preferences and power of attorney\n\n---\n\n### 🧠 Key Takeaway\nGood EOL care = **less suffering**, **more dignity**, and **patient-centered decisions**."
+                }
+              ]
+            }
+            
+          ]
+        },        
+        {
+          "year": 5,
+          "subjects": [
+            {
+              "name": "Internal Medicine (Advanced)",
+              "topics": [
+                {
+                  "title": "Rheumatology",
+                  "description": "Basics of autoimmune diseases: RA, lupus, spondyloarthropathies.",
+                  "notes": "### 🤲 Rheumatology Essentials\n\nFocuses on **autoimmune and inflammatory disorders** affecting joints and organs.\n\n---\n\n### 🔥 Key Conditions\n- **Rheumatoid Arthritis (RA)**: Symmetric small joint pain, ↑ RF/anti-CCP, erosions on X-ray; Tx: methotrexate\n- **Systemic Lupus Erythematosus (SLE)**: Malar rash, photosensitivity, nephritis, +ANA/dsDNA; Tx: hydroxychloroquine, steroids\n- **Spondyloarthropathies**: HLA-B27+, includes AS, PsA, IBD arthritis; Tx: NSAIDs, biologics\n\n---\n\n### 🧠 Key Takeaway\nAutoimmune diseases = systemic, chronic → require **early diagnosis, immunosuppressive treatment**."
+                },
+                {
+                  "title": "Renal Disorders",
+                  "description": "AKI vs CKD, glomerulonephritis, nephrotic/nephritic.",
+                  "notes": "### 🩸 Renal Disorders\n\nKidney diseases classified by **acute vs chronic**, and **glomerular syndromes**.\n\n---\n\n### 🆘 AKI vs CKD\n- **AKI**: Rapid ↑ creatinine, ↓ urine; pre-, intra-, post-renal causes\n- **CKD**: Gradual decline over ≥3 months, GFR staging\n\n### 🔍 Glomerular Syndromes\n- **Nephrotic**: Proteinuria >3.5g, edema, hypoalbumin (e.g. MCD, FSGS)\n- **Nephritic**: Hematuria, HTN, oliguria (e.g. PSGN, RPGN)\n\n---\n\n### 🧠 Key Takeaway\nAlways assess **urinalysis + creatinine + BP** → guides further nephrology workup."
+                },
+                {
+                  "title": "Endocrine Disorders",
+                  "description": "Thyroid, adrenal, pituitary diseases.",
+                  "notes": "### 🧬 Endocrine Disorders\n\nDiseases of **hormone-producing glands** — can be hypo- or hyper-functioning.\n\n---\n\n### 📌 Thyroid\n- **Hypothyroid**: Fatigue, weight gain, cold intolerance (↑ TSH)\n- **Hyperthyroid**: Weight loss, tremor, heat intolerance (↓ TSH)\n\n### 📌 Adrenal\n- **Addison’s**: ↓ cortisol/aldosterone → fatigue, hypotension, hyperpigmentation\n- **Cushing’s**: ↑ cortisol → obesity, moon face, striae\n\n### 📌 Pituitary\n- Prolactinoma (galactorrhea), acromegaly, diabetes insipidus\n\n---\n\n### 🧠 Key Takeaway\nHormonal imbalances → **multi-system effects** — labs + imaging crucial."
+                },
+                {
+                  "title": "GI and Liver Disease",
+                  "description": "IBD, hepatitis, cirrhosis, peptic ulcer.",
+                  "notes": "### 🍽️ GI & Liver Pathology\n\nIncludes inflammatory, infectious, and structural diseases.\n\n---\n\n### 🔥 Inflammatory Bowel Disease\n- **Crohn’s**: Skip lesions, full-thickness, any GI part\n- **UC**: Colon-only, continuous, mucosal\n\n### 🦠 Hepatitis & Cirrhosis\n- Viral (A–E), alcoholic, NAFLD\n- Cirrhosis: Portal HTN, ascites, varices, HCC risk\n\n### 🩹 Peptic Ulcer\n- H. pylori, NSAIDs; pain relieved/worsened by food\n\n---\n\n### 🧠 Key Takeaway\nGI complaints = rule out red flags: **bleeding, weight loss, anemia**, and treat **early**."
+                }
+              ]
+            },
+            
+            {
+              "name": "Surgery (Advanced)",
+              "topics": [
+                {
+                  "title": "Surgical Oncology",
+                  "description": "Principles of tumor resection, lymph node clearance.",
+                  "notes": "### 🎯 Surgical Oncology\n\nFocuses on **resecting malignancies** and preventing spread.\n\n---\n\n### 🛠️ Key Principles\n- **Wide excision** with margins\n- **Lymph node dissection**: Sentinel or complete\n- Tumor staging (TNM) guides extent\n\n### 🧪 Adjuncts\n- Neoadjuvant chemo/rads: Shrink before surgery\n- Adjuvant therapy: After resection\n\n---\n\n### 🧠 Key Takeaway\nGoal = **complete resection**, minimize recurrence → depends on **stage and type**."
+                },
+                {
+                  "title": "Colorectal Surgery",
+                  "description": "Hemorrhoids, colorectal cancer, fistulae.",
+                  "notes": "### 🚽 Colorectal Surgery\n\nManages diseases of the colon, rectum, and anus.\n\n---\n\n### 💥 Common Conditions\n- **Hemorrhoids**: Internal painless bleed; tx: rubber band or hemorrhoidectomy\n- **Fistula-in-ano**: Tract from rectum to skin; tx: fistulotomy\n- **Colorectal cancer**: Altered bowel, bleeding, weight loss; screen @ 50y (colonoscopy)\n\n---\n\n### 🧠 Key Takeaway\nColorectal symptoms = **never ignore bleeding or change in habits** → rule out cancer."
+                },
+                {
+                  "title": "Breast Surgery",
+                  "description": "Breast cancer diagnosis and operative management.",
+                  "notes": "### 🎗️ Breast Surgery\n\nIncludes diagnosis, staging, and treatment of **benign and malignant breast diseases**.\n\n---\n\n### 🔬 Diagnosis\n- Triple assessment: **Clinical + Imaging (US/mammo) + Biopsy**\n\n### 🧪 Cancer Types\n- DCIS, invasive ductal/lobular\n- ER/PR/HER2 status guides therapy\n\n### 🛠️ Surgical Options\n- Lumpectomy (breast-conserving)\n- Mastectomy ± reconstruction\n- SLNB or axillary clearance\n\n---\n\n### 🧠 Key Takeaway\n**Early detection + tailored surgery** = best outcomes in breast cancer."
+                },
+                {
+                  "title": "Postoperative Complications",
+                  "description": "Bleeding, infection, DVT, wound healing.",
+                  "notes": "### ⚠️ Postoperative Complications\n\nSurveillance is key after surgery — catch issues **early**.\n\n---\n\n### 📆 Timing Clues\n- POD 1–2: **Atelectasis**, pneumonia\n- POD 3–5: **UTI**, wound infection\n- POD 5–7: **DVT/PE**, anastomotic leak\n\n### 🩸 Types\n- Bleeding: Internal or drain output\n- Infection: Fever, erythema, pus\n- DVT: Leg pain/swelling → US + anticoagulation\n- Poor healing: Diabetes, steroids\n\n---\n\n### 🧠 Key Takeaway\nPost-op care = monitor **vitals, drains, wounds, mobility** — prevent **big problems early**."
+                }
+              ]
+            },
+            {
+              "name": "Pediatrics (Advanced)",
+              "topics": [
+                {
+                  "title": "Congenital Heart Disease",
+                  "description": "Types, murmur recognition, cyanotic vs acyanotic.",
+                  "notes": "### 💓 Congenital Heart Disease (CHD)\n\nMost common congenital defect — present with **murmur, cyanosis, failure to thrive**.\n\n---\n\n### 🔵 Cyanotic (5 Ts)\n- Tetralogy of Fallot (boot-shaped heart)\n- Transposition of great vessels\n- Truncus arteriosus\n- Tricuspid atresia\n- TAPVR\n\n### 🔴 Acyanotic\n- VSD (most common)\n- ASD, PDA, coarctation of aorta\n\n---\n\n### 🧪 Dx & Tx\n- Echo = gold standard\n- Surgery/intervention depends on defect + severity\n\n---\n\n### 🧠 Key Takeaway\n**Early detection + timely repair** prevent irreversible pulmonary HTN and failure."
+                },
+                {
+                  "title": "Neonatal Care",
+                  "description": "APGAR, common neonatal complications, feeding.",
+                  "notes": "### 👶 Neonatal Care Basics\n\nFirst 28 days = **critical for survival and growth**.\n\n---\n\n### 🩺 APGAR Score (1 & 5 min)\n- Appearance, Pulse, Grimace, Activity, Respiration (0–2 each)\n\n### 🚼 Key Complications\n- Respiratory distress syndrome (preterms)\n- Neonatal jaundice (physiologic vs pathologic)\n- Hypoglycemia, hypothermia\n\n### 🍼 Feeding\n- Breastfeeding preferred — start within 1 hour\n- Monitor weight, stool, urine\n\n---\n\n### 🧠 Key Takeaway\nGood neonatal care = **thermal, nutritional, infection control** + **early detection** of issues."
+                },
+                {
+                  "title": "Pediatric Oncology",
+                  "description": "Leukemia, lymphoma, solid tumors.",
+                  "notes": "### 🧬 Pediatric Oncology\n\nChildhood cancers are often **hematologic or embryonal**.\n\n---\n\n### ⚡ Most Common Cancers\n- **ALL**: Bone pain, bruising, blasts in blood/marrow\n- **Lymphomas**:\n  - Hodgkin (Reed-Sternberg): Painless node + B symptoms\n  - Non-Hodgkin: Rapid, extranodal\n- **Neuroblastoma**: Abdominal mass, catecholamines\n- **Wilms tumor**: Kidney mass, hematuria\n\n---\n\n### 📊 Diagnosis & Tx\n- CBC, biopsy, imaging\n- Chemo-based, some need surgery/radiation\n\n---\n\n### 🧠 Key Takeaway\nPediatric cancers = **rapid onset**, often **curable with early multi-modality care**."
+                }
+              ]
+            },
+            
+            {
+              "name": "Public Health and Epidemiology",
+              "topics": [
+                {
+                  "title": "Epidemiologic Measures",
+                  "description": "Incidence, prevalence, risk, odds ratios.",
+                  "notes": "### 📊 Epidemiologic Measures\n\nUsed to quantify disease **burden, association, and risk**.\n\n---\n\n### 🧮 Definitions\n- **Incidence**: New cases / population at risk over time\n- **Prevalence**: All existing cases / total population\n- **Risk**: Probability of developing disease\n- **Odds Ratio (OR)**: Odds in exposed / odds in unexposed (used in case-control)\n- **Relative Risk (RR)**: Risk in exposed / risk in unexposed (used in cohort)\n\n---\n\n### 🧠 Key Takeaway\nUse **incidence** for causality, **prevalence** for burden — OR ≈ RR in rare diseases."
+                },
+                {
+                  "title": "Screening and Prevention",
+                  "description": "Sensitivity, specificity, population programs.",
+                  "notes": "### 🧪 Screening & Prevention\n\nEarly detection improves outcomes — but needs balance.\n\n---\n\n### 🩺 Test Characteristics\n- **Sensitivity**: True positives / all with disease\n- **Specificity**: True negatives / all without disease\n- **PPV/NPV** depend on prevalence\n\n### 🎯 Levels of Prevention\n- **Primary**: Prevent disease (vaccines)\n- **Secondary**: Early detect (screening)\n- **Tertiary**: Limit impact (treatment, rehab)\n\n---\n\n### 🧠 Key Takeaway\nGreat screening = **high sensitivity**, easy, safe, and improves **morbidity/mortality**."
+                },
+                {
+                  "title": "Study Designs",
+                  "description": "Cohort, case-control, RCT, cross-sectional.",
+                  "notes": "### 🧬 Study Designs Overview\n\nDetermine causation, association, or prevalence.\n\n---\n\n### 📌 Types\n- **Cohort**: Exposure → outcome (prospective/retrospective) → RR\n- **Case-control**: Outcome → exposure (retrospective) → OR\n- **RCT**: Randomized, controlled = gold standard\n- **Cross-sectional**: Snapshot (prevalence study)\n\n---\n\n### 🧠 Key Takeaway\n**Design choice affects bias, cost, validity** — RCTs are best, but not always feasible."
+                },
+                {
+                  "title": "Outbreak Investigation",
+                  "description": "Steps in managing public health outbreaks.",
+                  "notes": "### 🔎 Outbreak Investigation\n\nA stepwise approach to identify cause and contain disease spread.\n\n---\n\n### 🚨 Steps\n1. Confirm diagnosis & outbreak\n2. Define case & count cases\n3. Describe in time/place/person\n4. Develop & test hypotheses\n5. Implement control measures\n6. Communicate findings\n\n---\n\n### 🧠 Key Takeaway\nOutbreaks require **rapid, structured response** → protect the public + find the source fast."
+                }
+              ]
+            }
+            ,
+            {
+              "name": "Radiology and Lab Medicine",
+              "topics": [
+                {
+                  "title": "Chest CT and Abdominal Imaging",
+                  "description": "Interpretation of CT findings in trauma, infection, cancer.",
+                  "notes": "### 🖼️ Chest CT & Abdominal Imaging\n\nCT provides **high-resolution, cross-sectional anatomy** — critical for trauma and pathology.\n\n---\n\n### 🫁 Chest CT\n- **PE**: Filling defect in pulmonary artery (CT-PA)\n- **Infection**: Consolidation, ground-glass opacities (e.g. COVID)\n- **Cancer**: Mass, lymphadenopathy\n\n### 🩻 Abdominal CT\n- **Appendicitis**: Enlarged, non-compressible appendix\n- **Diverticulitis**: Inflamed outpouchings, pericolic fat stranding\n- **Cancer**: Irregular mass, lymph node enlargement\n\n---\n\n### 🧠 Key Takeaway\nCT = best for **solid organ injury, bleeding, staging** — always consider **radiation dose**."
+                },
+                {
+                  "title": "Lab Interpretation Basics",
+                  "description": "CBC, LFTs, RFTs, electrolytes.",
+                  "notes": "### 🧪 Lab Interpretation 101\n\nUsed daily for diagnosis, monitoring, and triage.\n\n---\n\n### 📋 CBC\n- **Hb/Hct**: Anemia, polycythemia\n- **WBC**: Infection, leukemias\n- **Platelets**: Bleeding risk\n\n### 📊 LFTs\n- ALT/AST ↑: Hepatic injury\n- ALP/GGT ↑: Biliary obstruction\n- Albumin, INR: Synthetic function\n\n### 💧 RFTs & Electrolytes\n- Creatinine, BUN: Renal function\n- Na/K/Cl/HCO₃⁻: Fluid balance\n\n---\n\n### 🧠 Key Takeaway\nTrend labs over time — **context + correlation** guide decisions, not single numbers."
+                },
+                {
+                  "title": "Diagnostic Algorithms",
+                  "description": "Integrating labs and imaging in clinical diagnosis.",
+                  "notes": "### 🧠 Diagnostic Algorithms\n\nUse **stepwise thinking** to reduce error and delay.\n\n---\n\n### 🩺 Example: Chest Pain\n1. ECG + troponin\n2. If normal, D-dimer (if low-risk)\n3. If elevated → CT-PA\n4. If negative → GI or MSK cause\n\n### 🧪 Example: Jaundice\n- ALT/AST ↑ = hepatitis\n- ALP/GGT ↑ = obstruction → US\n- If both ↑ = mixed → CT/ERCP\n\n---\n\n### 🧠 Key Takeaway\nAlgorithms save time, reduce guesswork — always start with **broad + non-invasive**."
+                }
+              ]
+            }
+            ,
+            {
+              "name": "Family Medicine",
+              "topics": [
+                {
+                  "title": "Chronic Disease Management",
+                  "description": "Diabetes, HTN, asthma in primary care.",
+                  "notes": "### 🩺 Chronic Disease Management\n\nCore role of family medicine = **continuity and coordination** of long-term conditions.\n\n---\n\n### 📌 Diabetes\n- HbA1c target <7%\n- Metformin 1st-line → add SGLT2i/GLP-1RA for CV/renal protection\n\n### 📌 Hypertension\n- Target BP <140/90 (or <130/80 in high-risk)\n- ACEi/ARB, thiazide, CCB\n\n### 📌 Asthma\n- Stepwise tx: SABA → ICS → LABA → leukotriene modifiers\n- Action plan + trigger avoidance\n\n---\n\n### 🧠 Key Takeaway\nChronic care = patient partnership, **lifestyle support**, and regular monitoring."
+                },
+                {
+                  "title": "Preventive Medicine",
+                  "description": "Screening and lifestyle counseling.",
+                  "notes": "### 🛡️ Preventive Medicine\n\nShifts focus from **treatment to prevention**.\n\n---\n\n### 🎯 Screenings\n- Pap smear: Every 3 yrs (21–65)\n- Mammogram: Every 2 yrs (50–74)\n- Colonoscopy: q10y from 50 (or FIT yearly)\n- Lipids: >40 y/o, or earlier if risk factors\n\n### 🧘 Lifestyle Interventions\n- Diet: DASH, low salt/sugar/fat\n- Exercise: 150 min/week\n- Smoking cessation support\n\n---\n\n### 🧠 Key Takeaway\nEarly detection + behavior change = **lower disease burden and cost**."
+                },
+                {
+                  "title": "Patient-Centered Interviewing",
+                  "description": "Building rapport, exploring concerns, shared decision making.",
+                  "notes": "### 💬 Patient-Centered Interviewing\n\nFoundation of **primary care trust and compliance**.\n\n---\n\n### 🤝 Principles\n- Open-ended questions first\n- Explore patient ideas, fears, expectations\n- Empathy: Acknowledge emotion\n- Use **shared decision making**\n- Address psychosocial context\n\n### 📋 Techniques\n- Ask → Listen → Summarize\n- “What matters most to you today?”\n\n---\n\n### 🧠 Key Takeaway\nPatients remember **how you made them feel** — listening is therapeutic."
+                }
+              ]
+            }
+            
+          ]
+        },        
+        {
+          "year": 6,
+          "subjects": [
+            {
+              "name": "Emergency & Critical Care",
+              "topics": [
+                {
+                  "title": "Cardiac Arrest and ACLS",
+                  "description": "Management of cardiac arrest and resuscitation algorithms.",
+                  "notes": "### ❤️ Cardiac Arrest & ACLS\n\nUse **ACLS algorithm** to guide rapid action in cardiac arrest.\n\n---\n\n### 🧭 Key Steps\n1. Confirm unresponsiveness, call for help\n2. Start **CPR** immediately (100–120/min)\n3. Attach **defibrillator/monitor**\n4. Shockable (VF/pVT): Shock → CPR → drugs\n5. Non-shockable (asystole/PEA): CPR → **epi q3–5 min**\n\n---\n\n### 💉 Drugs\n- **Epinephrine**: All rhythms\n- **Amiodarone**: VF/pVT if refractory\n\n---\n\n### 🧠 Key Takeaway\nHigh-quality CPR + early defibrillation = **greatest survival impact**."
+                },
+                {
+                  "title": "Airway Management",
+                  "description": "Intubation techniques and ventilation basics.",
+                  "notes": "### 🫁 Airway Management\n\nEnsure a **patent airway** in emergencies or critical illness.\n\n---\n\n### 🔑 Techniques\n- **Bag-valve-mask (BVM)**: Temporary\n- **Oropharyngeal/Nasopharyngeal airway**: For unconscious\n- **Endotracheal Intubation**: Gold standard\n- **Rapid Sequence Intubation (RSI)**: Preoxygenate → sedative → paralytic\n\n---\n\n### ⚙️ Ventilation\n- Tidal volume: ~6–8 mL/kg\n- Monitor O₂, CO₂, airway pressure\n\n---\n\n### 🧠 Key Takeaway\nAlways assess **airway patency**, then plan definitive protection early."
+                },
+                {
+                  "title": "Sepsis and Shock",
+                  "description": "Recognition, diagnosis, and rapid treatment.",
+                  "notes": "### 🧬 Sepsis and Shock\n\nSepsis = life-threatening **organ dysfunction** due to dysregulated infection.\n\n---\n\n### 🚩 Criteria\n- Suspected infection + **SOFA score ↑ ≥2**\n- **qSOFA**: AMS, RR ≥22, SBP ≤100\n\n### 🧪 Labs\n- Lactate ↑, cultures, CBC, creatinine, LFTs\n\n### 💉 Treatment (Hour-1 Bundle)\n1. Fluids (30 mL/kg crystalloid)\n2. Cultures → broad-spectrum **antibiotics**\n3. Vasopressors if MAP <65\n\n---\n\n### 🧠 Key Takeaway\nSepsis = **time-sensitive** — early fluids, antibiotics, and monitoring = survival."
+                },
+                {
+                  "title": "Trauma Protocols",
+                  "description": "Primary and secondary survey, massive transfusion protocol.",
+                  "notes": "### 🩸 Trauma Protocols\n\nFollow **ATLS** framework in all major trauma.\n\n---\n\n### 🔤 Primary Survey: ABCDE\n- A: Airway + spine\n- B: Breathing\n- C: Circulation\n- D: Disability (neuro)\n- E: Exposure + temperature\n\n### 🔍 Secondary Survey\n- Head-to-toe + history (AMPLE)\n\n### 💉 Massive Transfusion Protocol\n- 1:1:1 ratio of PRBC:Plasma:Platelets\n- Monitor Ca²⁺, temp, coagulation\n\n---\n\n### 🧠 Key Takeaway\nTrauma care = **structured, repeatable** → saves lives under pressure."
+                }
+              ]
+            },
+            {
+              "name": "Clinical Integration & Decision-Making",
+              "topics": [
+                {
+                  "title": "Approach to Undifferentiated Complaints",
+                  "description": "Chest pain, SOB, abdominal pain, fever.",
+                  "notes": "### 🔍 Approach to Undifferentiated Complaints\n\nStart with **life-threatening causes**, then narrow down.\n\n---\n\n### 🧠 4 Key Presentations\n- **Chest Pain**: Rule out MI, PE, dissection → then GERD, MSK\n- **SOB**: PE, CHF, asthma/COPD, pneumonia\n- **Abdominal Pain**: Surgical vs medical → location = clue (RUQ = cholecystitis, RLQ = appy)\n- **Fever**: Source hunt — chest, urine, wound, line\n\n---\n\n### 🧠 Key Takeaway\nUse **pattern + red flags + system review** to identify critical vs benign."
+                },
+                {
+                  "title": "Diagnostic Reasoning",
+                  "description": "Clinical pattern recognition and Bayesian thinking.",
+                  "notes": "### 🧠 Diagnostic Reasoning\n\nInvolves **matching symptoms to disease patterns** and updating based on new data.\n\n---\n\n### 🧠 Dual Process Model\n- **System 1**: Fast, intuitive — pattern recognition\n- **System 2**: Slow, analytical — hypothetico-deductive\n\n### 🎯 Bayesian Thinking\n- **Pre-test probability** × test characteristics → **post-test probability**\n- Example: D-dimer in low-risk patient = rule out\n\n---\n\n### 🧠 Key Takeaway\nExpert diagnosis = **recalibrating with new info** — not guessing!"
+                },
+                {
+                  "title": "Management Planning",
+                  "description": "Building differential → confirm → treat → follow-up.",
+                  "notes": "### 🗂️ Management Planning\n\nClinical decisions = structured, staged actions.\n\n---\n\n### 🪜 Steps\n1. **Create differential**: Based on H&P\n2. **Prioritize**: Life-threatening first\n3. **Confirm**: Labs, imaging, biopsies\n4. **Treat**: Etiologic + symptomatic\n5. **Follow-up**: Monitor response, adjust\n\n---\n\n### 📌 Tools\n- SOAP notes\n- Clinical pathways/guidelines\n- Shared decision-making\n\n---\n\n### 🧠 Key Takeaway\nGreat clinicians don't just diagnose — they **plan, adjust, and reassess** continuously."
+                }
+              ]
+            }
+            ,
+            {
+              "name": "Medical Ethics and Law",
+              "topics": [
+                {
+                  "title": "Medical Consent & Capacity",
+                  "description": "Informed consent, competence, surrogates.",
+                  "notes": "### 📝 Consent & Capacity\n\nConsent is valid if it’s **informed, voluntary, and competent**.\n\n---\n\n### ✅ Consent Criteria\n- **Capacity**: Understand, retain, weigh, communicate\n- **Informed**: Risks, benefits, alternatives\n- **Voluntary**: No coercion\n\n### 🔁 Surrogates\n- Used when patient lacks capacity\n- Follow advance directives or legal hierarchy\n\n---\n\n### 🧠 Key Takeaway\nNo procedure without valid consent — **respect autonomy** and **legal standards**."
+                },
+                {
+                  "title": "Medical Negligence and Legal Risk",
+                  "description": "Duty of care, malpractice, documentation standards.",
+                  "notes": "### ⚖️ Medical Negligence\n\nOccurs when there’s a breach in **duty of care** causing harm.\n\n---\n\n### 🔍 4 D’s of Negligence\n1. **Duty**: Established doctor–patient relationship\n2. **Dereliction**: Breach of standard\n3. **Direct causation**: Harm from breach\n4. **Damages**: Actual injury or loss\n\n### 📋 Risk Management\n- Document clearly\n- Communicate openly\n- Follow guidelines\n\n---\n\n### 🧠 Key Takeaway\nGood records + communication = **legal protection + safer care**."
+                },
+                {
+                  "title": "Resource Allocation",
+                  "description": "Triage, rationing, end-of-life decisions.",
+                  "notes": "### 🧮 Resource Allocation\n\nBalancing individual care with **population justice** in limited-resource settings.\n\n---\n\n### 🔑 Principles\n- **Justice**: Fair distribution\n- **Utility**: Maximize benefit\n- **Autonomy**: Respect choice\n- **Equity**: Prioritize vulnerable\n\n### 🏥 Scenarios\n- ICU beds during crisis\n- Organ transplant lists\n- Triage in mass casualty\n\n---\n\n### 🧠 Key Takeaway\nEthical allocation = **transparent, consistent, and evidence-based** decisions."
+                }
+              ]
+            }
+            ,
+            {
+              "name": "Internship Prep Skills",
+              "topics": [
+                {
+                  "title": "Discharge Planning",
+                  "description": "Patient safety, medication reconciliation.",
+                  "notes": "### 📦 Discharge Planning\n\nA good discharge prevents **readmission** and ensures safe continuity of care.\n\n---\n\n### ✅ Key Components\n- **Diagnosis summary**\n- **Medication reconciliation**\n- **Follow-up plans**: Appointments, labs, referrals\n- **Patient instructions**: Clear, in lay terms\n\n### 🧪 Common Pitfalls\n- Missing med changes\n- Poor documentation\n- Unclear instructions\n\n---\n\n### 🧠 Key Takeaway\nDischarge = handoff to real life → **clarity + coordination** = safe transition."
+                },
+                {
+                  "title": "Common Ward Emergencies",
+                  "description": "Hypoglycemia, acute chest pain, hypotension.",
+                  "notes": "### 🚨 Ward Emergencies\n\nEarly recognition + calm action = saves lives.\n\n---\n\n### ⚠️ Key Emergencies\n- **Hypoglycemia**: Sweating, confusion → Check glucose, give dextrose\n- **Chest Pain**: ECG + vitals → MI, PE, dissection?\n- **Hypotension**: BP <90 → assess volume, sepsis, bleed\n\n### 🩺 First Steps\n- ABCs → Monitor → Vitals → Notify senior\n- Always **reassess** after intervention\n\n---\n\n### 🧠 Key Takeaway\nInterns aren’t alone — but your **speed + organization** makes the difference."
+                },
+                {
+                  "title": "Writing Admission and Progress Notes",
+                  "description": "SOAP format, clarity, and completeness.",
+                  "notes": "### 📝 Notes: Admission & Daily Progress\n\nClear notes = good care + legal protection.\n\n---\n\n### 📋 SOAP Format\n- **S**ubjective: Patient-reported sx\n- **O**bjective: Vitals, labs, exams\n- **A**ssessment: Diagnosis + differentials\n- **P**lan: Tests, treatments, consults\n\n### 🖊️ Tips\n- Be concise but complete\n- Avoid vague phrases (e.g. “doing fine”)\n- Use bullet points for clarity\n\n---\n\n### 🧠 Key Takeaway\nGood notes = good communication → document what you saw, thought, and did."
+                }
+              ]
+            }
+            ,
+            {
+              "name": "Professionalism and Communication",
+              "topics": [
+                {
+                  "title": "Difficult Conversations",
+                  "description": "Conflict resolution, cultural competence.",
+                  "notes": "### 💬 Difficult Conversations\n\nTough talks = **compassion + clarity**.\n\n---\n\n### 🛠️ Strategies\n- Use SPIKES or similar framework\n- Acknowledge emotions\n- Listen actively before responding\n\n### 🌍 Cultural Competence\n- Ask open-ended: “What does this mean to you?”\n- Avoid assumptions; adapt care to values\n\n---\n\n### 🧠 Key Takeaway\nConflict or emotion ≠ avoid → use **empathy + skill to build trust**."
+                },
+                {
+                  "title": "Team Communication",
+                  "description": "SBAR, handover protocols, closed-loop communication.",
+                  "notes": "### 🧑‍🤝‍🧑 Team Communication\n\nHealthcare = **team sport**. Clear, structured talk saves lives.\n\n---\n\n### 🧾 Tools\n- **SBAR**: Situation, Background, Assessment, Recommendation\n- **Handover**: Include active issues, plans, contact\n- **Closed-loop**: Confirm every message (esp. critical tasks)\n\n---\n\n### 🧠 Key Takeaway\n**Safety = communication**. Make sure you’re heard and understood."
+                },
+                {
+                  "title": "Leadership and Advocacy",
+                  "description": "Acting as patient advocate and healthcare leader.",
+                  "notes": "### 🧭 Leadership & Advocacy\n\nGreat doctors **influence, guide, and advocate**.\n\n---\n\n### 🧠 Clinical Leadership\n- Set example: punctual, ethical, proactive\n- Lead rounds, respond to crises, stay humble\n\n### 🎤 Advocacy\n- Patient-centered care\n- Speak up for underserved\n- Participate in health policy when able\n\n---\n\n### 🧠 Key Takeaway\nDoctors lead by example — in **decisions, demeanor, and dedication**."
+                }
+              ]
+            }
+            ,
+            {
+              "name": "Global and Preventive Health",
+              "topics": [
+                {
+                  "title": "Global Burden of Disease",
+                  "description": "DALYs, major contributors, public health responses.",
+                  "notes": "### 🌍 Global Burden of Disease (GBD)\n\nGBD = **morbidity + mortality worldwide**.\n\n---\n\n### 📊 Metrics\n- **DALYs** = YLL + YLD (disability-adjusted life years)\n- Leading causes: CV disease, lower resp infections, neonatal disorders\n\n### 🏥 Priorities\n- Maternal-child health\n- Vaccination\n- Non-communicable diseases (NCDs)\n\n---\n\n### 🧠 Key Takeaway\nUnderstanding GBD helps prioritize **cost-effective, life-saving health interventions**."
+                },
+                {
+                  "title": "Disaster Medicine",
+                  "description": "Triage, logistics, and medical care in crises.",
+                  "notes": "### ⚠️ Disaster Medicine\n\nPreparedness for mass casualty = **maximize survival with limited resources**.\n\n---\n\n### 🧭 Triage Categories\n- Red: Immediate\n- Yellow: Delayed\n- Green: Minor\n- Black: Expectant/deceased\n\n### 🔧 Key Skills\n- Field organization\n- Incident command\n- Resource allocation\n\n---\n\n### 🧠 Key Takeaway\nCrisis care = **simple, structured, scalable** to save as many as possible."
+                },
+                {
+                  "title": "Occupational and Environmental Health",
+                  "description": "Exposure risk, workplace safety, pollution effects.",
+                  "notes": "### 🧪 Occupational & Environmental Health\n\nFocus on **preventing harm from work and surroundings**.\n\n---\n\n### 🏭 Hazards\n- Noise, dust, toxins (e.g. asbestos, lead)\n- Zoonoses, ergonomic injuries\n- Heat stroke, chemical spills\n\n### 🌱 Environmental\n- Air & water pollution → COPD, CA\n- Climate change = rising heat injury, vector diseases\n\n---\n\n### 🧠 Key Takeaway\nPrevention in workplace + environment = huge return in **public health and productivity**."
+                }
+              ]
+            }
+            
+          ]
+        }
+    ]
+  }
+  
